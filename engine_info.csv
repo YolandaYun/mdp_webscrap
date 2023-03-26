@@ -1,0 +1,479 @@
+id,modelid,modelname,equipment_slug,engine_model
+1,112411,D4K2,crawler-tractor,Cat C4.4 ACERT
+2,113592,D6T,crawler-tractor,Cat C9 ACERT
+3,113594,D6T (Tier 4 Final),crawler-tractor,Cat C9.3 ACERT
+4,113595,D6T (Tier 4 Interim/Stage IIIB),crawler-tractor,Cat C9.3 ACERT
+5,113596,D6R Series 3,crawler-tractor,Cat C9 ACERT
+6,113588,D7E WH,crawler-tractor,Cat C9.3 ACERT
+7,113591,D6N Tier 4 Interim/Stage IIIB,crawler-tractor,Cat C6.6 ACERT
+8,113588,D7E WH,crawler-tractor,Cat C9.3 ACERT
+9,113593,D6K2 (Tier 4 Interim/Stage IIIB),crawler-tractor,Cat C6.6 ACERT
+10,113597,D6R Series III,crawler-tractor,Cat C9 ACERT
+11,113598,D7R Series 2,crawler-tractor,Cat 3176C
+12,113666,D5K,crawler-tractor,CAT C4.4 ACERT
+13,113667,D3C XL Series III Hystat,crawler-tractor,Cat 3046
+14,113576,D7E WH (Tier 4 Interim/Stage IIIB),crawler-tractor,Cat C9.3 ACERT
+15,113577,D6T WH (New),crawler-tractor,Cat C9.3 ACERT
+16,113578,D5M WH,crawler-tractor,Cat 3116 T
+17,113580,D6N WH,crawler-tractor,Cat C7.1 ACERT
+18,113668,D3K2 Tier 4 Final,crawler-tractor,Cat C4.4 ACERT
+19,113669,D5C LGP Series III,crawler-tractor,Cat 3046
+20,113670,D4K2 Tier 4 Final/Stage IV,crawler-tractor,Cat C4.4 ACERT
+21,113671,D3K2 Shiphold / Port Handling,crawler-tractor,Cat C4.4 ACERT
+22,113579,D6R WH,crawler-tractor,Cat 3306
+23,113585,D8R Series II WH,crawler-tractor,Cat 3406C
+24,113585,D8R Series II WH,crawler-tractor,Cat 3406C
+25,113587,D6T WH (Tier 4 Interim/Stage IIIB),crawler-tractor,Cat C9.3 ACERT
+26,113581,D6M WH,crawler-tractor,Cat 3116 T
+27,113582,D6T WH,crawler-tractor,Cat C-9 ACERT
+28,113583,D7R WH,crawler-tractor,Cat 3306
+29,113584,D8T WH (Tier 4 Interim/Stage IIIB),crawler-tractor,Cat C15 ACERT
+30,113672,D3K2,crawler-tractor,Cat C4.4 ACERT
+31,113674,D4K,crawler-tractor,CAT C4.4 ACERT
+32,113675,D5K2 Tier 4 Final/Stage IV,crawler-tractor,Cat C4.4 ACERT
+33,113673,D3K,crawler-tractor,CAT C4.4 ACERT
+34,113676,D5K2 Shiphold / Port Handling,crawler-tractor,Cat C4.4 ACERT
+35,113677,D3C Series III Hystat,crawler-tractor,Cat 3046
+36,113678,D3C LGP Series III Hystat,crawler-tractor,Cat 3046
+37,113679,D3K2 Mulcher,crawler-tractor,Cat C4.4 ACERT
+38,114645,D6,crawler-tractor,Cat C9.3B
+39,114644,D6 XE,crawler-tractor,Cat C9.3B
+40,109147,D5K2,crawler-tractor,Cat C4.4 ACERT
+41,109151,D5K2 LGP,crawler-tractor,CAT C4.4 ACERT
+42,109155,D6k2,crawler-tractor,C6.6 ACERT
+43,108961,D3K2 XL,crawler-tractor,C4.4 ACERT
+44,108859,D7E LGP Hybrid,crawler-tractor,C9.3 Acert
+45,108858,D7E Hybrid,crawler-tractor,C9.3 Acert
+46,104161,D4,crawler-tractor,NOTFOUND
+47,103955,D6R LGP,crawler-tractor,3306
+48,103954,D6R IG,crawler-tractor,3306
+49,103953,D6R XR,crawler-tractor,3306 T
+50,103909,D7R XR Series II,crawler-tractor,3176C
+51,103908,D7R WH LGP Series II,crawler-tractor,3176C
+52,103907,D7R WH Series II,crawler-tractor,3176C
+53,103906,D7R LGP Series II,crawler-tractor,3176C
+54,103905,D7R Series II,crawler-tractor,3176C
+55,103904,D6R XW Series II,crawler-tractor,C9
+56,103903,D6R XL Series II,crawler-tractor,3306T
+57,103902,D6R LGP Series II,crawler-tractor,C9
+58,103912,D7R LGP,crawler-tractor,3306T
+59,103910,D7R,crawler-tractor,3306T
+60,103759,D4B LGP,crawler-tractor,3204
+61,103758,D4B,crawler-tractor,3204
+62,103768,D6H LGP,crawler-tractor,3306
+63,103757,D3B LGP-S,crawler-tractor,3204
+64,103756,D5H LGP,crawler-tractor,3304
+65,103755,D4H LGP,crawler-tractor,3204
+66,103754,D7H,crawler-tractor,3306
+67,90913,D6N,crawler-tractor,Cat C7.1 ACERT
+68,90912,D5N,crawler-tractor,3126B DITAAC
+69,90911,D5G,crawler-tractor,Cat 3046T
+70,90910,D4G,crawler-tractor,Cat 3046
+71,90909,D3G,crawler-tractor,Cat 3046T
+72,90908,D9R,crawler-tractor,3408ETA
+73,90907,D8R Series II,crawler-tractor,3406E TA
+74,90905,D6R Series II,crawler-tractor,3306
+75,90811,D4C LGP Series III,crawler-tractor,Cat 3046
+76,90810,D4C XL Series III Hystat,crawler-tractor,Cat 3046
+77,90809,D4C XL Series III,crawler-tractor,Cat 3046
+78,90808,D4C Series III Hystat,crawler-tractor,Cat 3046
+79,90807,D4C Series III,crawler-tractor,Cat 3046
+80,90805,D3C LGP Series III,crawler-tractor,Cat 3046
+81,90803,D3C XL Series III,crawler-tractor,Cat 3046
+82,90801,D3C Series III,crawler-tractor,3046
+83,90783,D6D,crawler-tractor,3306
+84,90782,D11N,crawler-tractor,3508
+85,90781,D10N,crawler-tractor,3412
+86,90780,D9N,crawler-tractor,3408
+87,90779,D8N,crawler-tractor,3406C
+88,90816,D5C XL Series III Hystat,crawler-tractor,Cat 3046
+89,90815,D5C XL Series III,crawler-tractor,Cat 3046
+90,90814,D5C Series III Hystat,crawler-tractor,Cat 3046
+91,90813,D5C Series III,crawler-tractor,Cat 3046
+92,90812,D4C LGP Series III Hystat,crawler-tractor,Cat 3046
+93,90820,D6R WHA,crawler-tractor,3306
+94,90819,D5M LGP,crawler-tractor,3116T
+95,90818,D5M XL,crawler-tractor,3116T
+96,90817,D5C LGP Series III Hystat,crawler-tractor,Cat 3046
+97,90787,D3C LGP-S Series II,crawler-tractor,3204
+98,90786,D3C LGP Series II,crawler-tractor,3204
+99,90785,D8L,crawler-tractor,3408
+100,90784,D6E,crawler-tractor,3306
+101,90796,D6H WDA Series II,crawler-tractor,3306
+102,90795,D8L LGP,crawler-tractor,3408
+103,90794,D7G LGP,crawler-tractor,3408
+104,90793,D6D LGP,crawler-tractor,3306
+105,90792,D7H LGP Series II,crawler-tractor,3306
+106,90791,D6H LGP Series II,crawler-tractor,3306
+107,90790,D5H LGP Series II,crawler-tractor,3304
+108,90789,D4H LGP Series II,crawler-tractor,3204
+109,90788,D4C LGP Series II,crawler-tractor,3204
+110,90800,D9N WDA,crawler-tractor,3408
+111,90799,D8N WDA,crawler-tractor,3406
+112,90798,D8L WDA,crawler-tractor,3408
+113,90797,D7H WDA Series II,crawler-tractor,3306
+114,90553,D6T WH XL,crawler-tractor,C-9 ACERT
+115,90552,D10T WH,crawler-tractor,Cat C27 ACERT
+116,90551,D9T WH,crawler-tractor,Cat C18 ACERT
+117,90550,D8T WH LGP,crawler-tractor,C15 ACERT
+118,90549,D8T WH,crawler-tractor,Cat C15 ACERT
+119,90544,D6N WH LGP,crawler-tractor,C6.6 ACERT
+120,90530,D9T,crawler-tractor,C18 ACERT
+121,90529,D8T,crawler-tractor,C15 ACERT
+122,90525,D6T LGP VPAT,crawler-tractor,C9 ACERT
+123,90524,D6T LGP S,crawler-tractor,C9 ACERT
+124,90518,D6N LGP,crawler-tractor,C6.6 ACERT
+125,90517,D6N XL,crawler-tractor,Cat 3126B DITAAC
+126,90516,D6K LGP,crawler-tractor,C6.6 ACERT
+127,90515,D6K XL,crawler-tractor,C6.6 ACERT
+128,90523,D6T XW VPAT,crawler-tractor,C9 ACERT
+129,90522,D6T XW,crawler-tractor,C9 ACERT
+130,90521,D6T XL VPAT,crawler-tractor,C9 ACERT
+131,90520,D6T XL,crawler-tractor,C9 ACERT
+132,90519,D6T STD,crawler-tractor,C9 ACERT
+133,90533,D11T CD,crawler-tractor,C32 ACERT
+134,90532,D11T,crawler-tractor,3508B
+135,90531,D10T,crawler-tractor,C27 ACERT
+136,90543,D6N WH XL,crawler-tractor,C6.6 ACERT
+137,90514,D5K LGP,crawler-tractor,C4.4 ACERT
+138,90513,D5K XL,crawler-tractor,C4.4 ACERT
+139,90512,D5G LGP,crawler-tractor,3046T
+140,90511,D5G XL,crawler-tractor,3046T
+141,90839,D10R,crawler-tractor,3412E
+142,90838,D8R LGP,crawler-tractor,3406C
+143,90837,D8R,crawler-tractor,3406C
+144,90835,D7R XR,crawler-tractor,3306 T
+145,90830,D6R XL,crawler-tractor,3306 T
+146,90829,D6R,crawler-tractor,3306
+147,90828,D6G,crawler-tractor,3306T
+148,90827,D6M LGP,crawler-tractor,3116 T
+149,90826,D6M XL,crawler-tractor,3116 T
+150,90843,D9L,crawler-tractor,3412
+151,90842,D3B,crawler-tractor,3204
+152,90841,D11R CD,crawler-tractor,3508B
+153,90840,D11R,crawler-tractor,3508B
+154,90851,D8L SA,crawler-tractor,3408
+155,90850,D7G SA,crawler-tractor,3306
+156,90849,D6D SA,crawler-tractor,3306
+157,90848,D5B SA,crawler-tractor,3306
+158,90825,D5E,crawler-tractor,3306
+159,90823,D9R WHA,crawler-tractor,3408E
+160,90822,D8R WHA,crawler-tractor,3406ETA
+161,90821,D7R WHA,crawler-tractor,3176C
+162,90847,D4E SA,crawler-tractor,3304
+163,90846,D5B LGP,crawler-tractor,3306
+164,90845,D4E LGP,crawler-tractor,3304
+165,90844,D3B LGP,crawler-tractor,3204
+166,90778,D7H Series II,crawler-tractor,3306
+167,90777,D6H Series II,crawler-tractor,3306
+168,90776,D5H Series II,crawler-tractor,3304
+169,90775,D4H Series II,crawler-tractor,3204
+170,90766,D5B,crawler-tractor,3306
+171,90765,D4E,crawler-tractor,3304
+172,90764,D3,crawler-tractor,3204
+173,90774,D4C Series II,crawler-tractor,3204
+174,90773,D10,crawler-tractor,D348
+175,90772,DD9H,crawler-tractor,D353(2)
+176,90771,D3C Series II,crawler-tractor,3204
+177,90770,D9H,crawler-tractor,D353
+178,90769,D8K,crawler-tractor,D342
+179,90768,D7G,crawler-tractor,3306 T
+180,90767,D60,crawler-tractor,3306
+181,90554,D6T WH LGP,crawler-tractor,C-9 ACERT
+182,90506,D3K LGP,crawler-tractor,C4.4 ACERT
+183,90505,D3K XL,crawler-tractor,C4.4 ACERT
+184,90504,D3G LGP,crawler-tractor,3046T
+185,90503,D3G XL,crawler-tractor,3046T
+186,90510,D4K LGP,crawler-tractor,C4.4 ACERT
+187,90509,D4K XL,crawler-tractor,C4.4 ACERT
+188,90508,D4G LGP,crawler-tractor,3046T
+189,90507,D4G XL,crawler-tractor,3046T
+190,103322,D5N LGP,crawler-tractor,3126BT
+191,103321,D5N XL,crawler-tractor,3126BT
+192,112954,970F,wheel-loader,NOTFOUND
+193,112950,928F,wheel-loader,3116 T
+194,112948,938F,wheel-loader,NOTFOUND
+195,112381,IT28G,wheel-loader,NOTFOUND
+196,112410,988G,wheel-loader,Cat 3456 EUI
+197,113252,988H Steel Mill Arrangement,wheel-loader,Cat C18 ACERT
+198,113253,986K Block Handler Arrangement,wheel-loader,Cat C15 ACERT
+199,113254,990K Millyard Arrangement,wheel-loader,Cat C27 ACERT
+200,113255,986K,wheel-loader,Cat C15 ACERT
+201,113256,988K Millyard Arrangement,wheel-loader,Cat C18 ACERT
+202,113257,988K,wheel-loader,Cat C18 ACERT
+203,113259,994K,wheel-loader,Cat 3516E
+204,113260,990H Steel Mill Arrangement,wheel-loader,Cat C27 ACERT
+205,113258,988K XE,wheel-loader,Cat C18 ACERT
+206,113250,986H,wheel-loader,Cat C15 ACERT
+207,113251,988H Millyard Arrangement,wheel-loader,Cat C18 ACERT
+208,113277,982M,wheel-loader,Cat C13 ACERT
+209,113278,962K,wheel-loader,Cat? C7.1 ACERT?
+210,113277,982M,wheel-loader,Cat C13 ACERT
+211,113280,972M XE,wheel-loader,Cat? C9.3 ACERT?
+212,113273,966M,wheel-loader,Cat? C9.3 ACERT?
+213,113278,962K,wheel-loader,Cat? C7.1 ACERT?
+214,113275,950M,wheel-loader,Cat C7.1 ACERT
+215,113275,950M,wheel-loader,Cat C7.1 ACERT
+216,113266,990K,wheel-loader,Cat C27 ACERT
+217,113280,972M XE,wheel-loader,Cat? C9.3 ACERT?
+218,113271,962G Series II,wheel-loader,Caterpillar 3126B with ATAAC
+219,113272,972M,wheel-loader,Cat C9.3 ACERT
+220,113281,962M Millyard,wheel-loader,Cat C7.1 ACERT
+221,113291,966M XE,wheel-loader,Cat? C9.3 ACERT?
+222,113291,966M XE,wheel-loader,Cat? C9.3 ACERT?
+223,113293,972M (2015),wheel-loader,Cat? C9.3 ACERT?
+224,113298,950M Millyard,wheel-loader,Cat C7.1 ACERT
+225,113299,950K Power Package,wheel-loader,Cat? C7.1 ACERT?
+226,113309,966G Series II,wheel-loader,Caterpillar 3176C with ATAAC
+227,113310,950M (TIER 4/STAGE IV) (2016),wheel-loader,Cat C7.1 ACERT
+228,113295,962M (TIER 4/STAGE IV) (2016),wheel-loader,Cat C7.1 ACERT
+229,113296,950 GC,wheel-loader,Cat C7.1 ACERT
+230,113297,966M (Tier 3/Stage IIIA),wheel-loader,Cat C9.3 ACERT
+231,113263,988K Block Handler Arrangement,wheel-loader,Cat C18 ACERT
+232,113264,990H Millyard Arrangement,wheel-loader,Cat C27 ACERT
+233,113265,994H,wheel-loader,Cat 3516B HD EUI
+234,113267,986H Block Handler Arrangement,wheel-loader,Cat C15 ACERT
+235,113294,IT38G Series II,wheel-loader,Cat? 3126B ATAAC
+236,113269,962M,wheel-loader,Cat? C7.1 ACERT?
+237,113261,990K Steel Mill Arrangement,wheel-loader,Cat C27 ACERT
+238,113262,988K Steel Mill Arrangement,wheel-loader,Cat C18 ACERT
+239,113312,907M Ag Handler,wheel-loader,NOTFOUND
+240,113313,908M,wheel-loader,Cat C3.3B DIT*
+241,113315,906M,wheel-loader,Cat C3.3B DIT*
+242,113316,908M Ag Handler,wheel-loader,NOTFOUND
+243,113314,907M,wheel-loader,Cat C3.3B DIT*
+244,113318,IT14G2,wheel-loader,NOTFOUND
+245,113319,907H2,wheel-loader,NOTFOUND
+246,113313,908M,wheel-loader,Cat C3.3B DIT*
+247,113321,910K,wheel-loader,Cat C3.8 Turbo
+248,113322,914K,wheel-loader,Cat C3.8 Turbo
+249,113323,906M Ag Handler,wheel-loader,NOTFOUND
+250,113317,903D,wheel-loader,Cat C2.4*
+251,113339,910M,wheel-loader,Cat C4.4 ACERT
+252,113340,903C2,wheel-loader,Cat C2.4*
+253,113341,908H2,wheel-loader,NOTFOUND
+254,113343,918M,wheel-loader,Cat C4.4 ACERT
+255,113347,938M Waste Handler,wheel-loader,Cat C7.1 ACERT
+256,113348,926M Waste Handler,wheel-loader,Cat C7.1 ACERT
+257,113349,938M,wheel-loader,Cat C7.1 ACERT
+258,113351,926M,wheel-loader,Cat C7.1 ACERT
+259,113325,914G2,wheel-loader,NOTFOUND
+260,113315,906M,wheel-loader,Cat C3.3B DIT*
+261,113314,907M,wheel-loader,Cat C3.3B DIT*
+262,113338,914M,wheel-loader,Cat C4.4 ACERT
+263,113344,926M Aggregate Handler,wheel-loader,Cat C7.1 ACERT
+264,113324,907H,wheel-loader,NOTFOUND
+265,113346,930M Aggregate Handler,wheel-loader,Cat C7.1 ACERT
+266,113345,924K,wheel-loader,NOTFOUND
+267,113352,924Hz,wheel-loader,NOTFOUND
+268,113353,IT24F,wheel-loader,NOTFOUND
+269,113354,928Hz,wheel-loader,NOTFOUND
+270,113372,414E IL,wheel-loader,Cat 3054C DIT
+271,113350,930M,wheel-loader,Cat C7.1 ACERT
+272,114605,962L,wheel-loader,Cat C7.1 ACERT
+273,106353,906H,wheel-loader,C3.4
+274,106352,904H,wheel-loader,MHI S4Q2-T
+275,106354,908H,wheel-loader,C3.4
+276,109102,966K,wheel-loader,Cat? C9.3 ACERT?
+277,109101,930G,wheel-loader,3056E DIT
+278,109099,930K,wheel-loader,C7.1 ACERT
+279,109092,938K,wheel-loader,C7.1 ACERT
+280,109090,980M,wheel-loader,Cat? C13 ACERT?
+281,109084,906H2,wheel-loader,C3.3B DIT
+282,109082,972K,wheel-loader,Cat? C9.3 ACERT?
+283,109089,926K,wheel-loader,3204
+284,108996,980K,wheel-loader,Cat? C13 ACERT?
+285,109012,950K,wheel-loader,Cat? C7.1 ACERT?
+286,113345,924K,wheel-loader,NOTFOUND
+287,108963,903C,wheel-loader,Cat C2.4*
+288,108857,924F,wheel-loader,3114
+289,104924,992K,wheel-loader,Cat C32 with ACERT Technology
+290,103973,992D,wheel-loader,3412
+291,103750,950F,wheel-loader,3116
+292,103749,966F,wheel-loader,3306
+293,91572,926,wheel-loader,3204
+294,91570,994D,wheel-loader,Cat 3516B EUI
+295,91569,990 Series II,wheel-loader,Cat 3412E TA
+296,91568,988F Series II,wheel-loader,Cat 3408E
+297,91563,950G,wheel-loader,Cat? 3126 DITA
+298,91562,938G,wheel-loader,3126DITA
+299,91561,928G,wheel-loader,3116T
+300,91560,924G Pin On,wheel-loader,3056T
+301,91559,924Gz,wheel-loader,3056T
+302,91567,980G,wheel-loader,Cat? 3406C DITA
+303,91566,972G,wheel-loader,3306DITA
+304,91565,966G,wheel-loader,Cat? 3306 DITA
+305,91564,962G,wheel-loader,Cat? 3126 DITA
+306,91558,902,wheel-loader,3024
+307,91557,966E,wheel-loader,3306
+308,91556,966R,wheel-loader,3306
+309,91555,950E,wheel-loader,3304
+310,91554,936E,wheel-loader,3304
+311,91553,930R,wheel-loader,3304
+312,91552,926E,wheel-loader,3204
+313,91551,916,wheel-loader,3204
+314,91574,966D,wheel-loader,3306
+315,91573,950B,wheel-loader,3304
+316,91550,910E,wheel-loader,3114
+317,91549,992C,wheel-loader,3412
+318,91548,988B,wheel-loader,3408
+319,91547,980C,wheel-loader,3406
+320,91546,966C,wheel-loader,3306
+321,91545,950,wheel-loader,3304T
+322,91544,930,wheel-loader,3304
+323,91603,990H,wheel-loader,Cat C27 ACERT
+324,91602,938G Series II,wheel-loader,3126B HEUI
+325,91601,928Gz,wheel-loader,3056E DIT ATAAC
+326,91526,R2900G XTRA,wheel-loader,3406E EUI ATAAC
+327,91525,R2900G,wheel-loader,C15 ACERT
+328,91524,R1700G,wheel-loader,C11 ACERT
+329,91523,R1600G,wheel-loader,3176C EUI ATAAC
+330,91522,R1300G,wheel-loader,3306B DITA
+331,91543,920,wheel-loader,3304
+332,91542,910,wheel-loader,3204
+333,91321,994F,wheel-loader,Cat 3516B  HD EUI
+334,91152,914G,wheel-loader,3054 Turbocharged diesel
+335,91151,980H,wheel-loader,Cat? C15 ACERT?
+336,91150,972H,wheel-loader,Cat? C13 ACERT?
+337,91149,908,wheel-loader,NOTFOUND
+338,91143,906,wheel-loader,3044C
+339,91142,930H,wheel-loader,C6.6
+340,113352,924Hz,wheel-loader,NOTFOUND
+341,113354,928Hz,wheel-loader,NOTFOUND
+342,91139,904B,wheel-loader,S4Q2 Turbo
+343,91138,924H,wheel-loader,C6.6
+344,91137,993K,wheel-loader,C32 ACERT
+345,91136,992G,wheel-loader,Cat 3508B EUI
+346,91148,966H,wheel-loader,Cat? C11 ACERT?
+347,91147,962H,wheel-loader,Cat? C7 ACERT?
+348,91145,950H,wheel-loader,Cat? C7 ACERT?
+349,91144,938H,wheel-loader,6.6 ACERT
+350,91135,990 H,wheel-loader,C27 MEUI ACERT
+351,91134,988H,wheel-loader,Cat C18 ACERT
+352,113212,773D,rock-truck,Cat 3412E TA-HEUI
+353,113213,769B,rock-truck,D343
+354,113227,773G (Tier 4),rock-truck,Cat C27 ACERT
+355,113228,775G (Tier 4),rock-truck,Cat C27 ACERT
+356,113229,773G (Tier 2),rock-truck,Cat C27 ACERT
+357,113230,777G (Tier 2),rock-truck,Cat C32 ACERT
+358,113233,794 AC,rock-truck,Cat C175-16
+359,113234,797F,rock-truck,Cat C175-20
+360,113233,794 AC,rock-truck,Cat C175-16
+361,113236,793F (Tier 4),rock-truck,Cat C175-16
+362,113237,793F,rock-truck,Cat C175-16
+363,113238,789D,rock-truck,3516C - HD
+364,113239,795F AC,rock-truck,Cat C175-16
+365,113240,785G (Tier 4),rock-truck,Cat 3512E HD
+366,113242,785D WTR Bare Chassis,rock-truck,NOTFOUND
+367,113225,775G (Tier 2),rock-truck,Cat C27 ACERT
+368,113226,777G (Tier 4),rock-truck,Cat C32 ACERT
+369,113246,793F WTR Bare Chassis,rock-truck,NOTFOUND
+370,113247,773G WTR Bare Chassis,rock-truck,NOTFOUND
+371,113243,775G WTR Bare Chassis,rock-truck,NOTFOUND
+372,113244,772G WTR Bare Chassis,rock-truck,NOTFOUND
+373,113245,777G WTR Bare chassis,rock-truck,NOTFOUND
+374,103539,785D,rock-truck,Cat 3512C HD
+375,103571,69D,rock-truck,3408E HEUI
+376,93273,777F,rock-truck,Cat C32 ACERT
+377,93272,775F,rock-truck,Cat C27 ACERT
+378,93271,773F,rock-truck,Cat C27 ACERT
+379,93270,772,rock-truck,Cat C18 ACERT
+380,93277,793D,rock-truck,Cat 3516B HD EUI
+381,93276,789C,rock-truck,Cat 3516B EUI
+382,93275,785C,rock-truck,Cat 3512B-EUI
+383,93274,797B,rock-truck,3524B HD EUI
+384,93269,770,rock-truck,Cat C15 ACERT
+385,93331,777D,rock-truck,Cat 3508B EUI
+386,93330,775D,rock-truck,3412ETA
+387,93329,771D,rock-truck,3408ETA
+388,93328,769D,rock-truck,CAT 3408E TA-HEUI
+389,93339,775E,rock-truck,Cat 3412E
+390,93338,773E,rock-truck,3412E
+391,93337,73D,rock-truck,3412E HEUI
+392,93336,69D Ejector,rock-truck,3408E HEUI
+393,93334,797,rock-truck,Cat 3524B
+394,93333,793C,rock-truck,3516A
+395,93332,170,rock-truck,3512A
+396,93323,777,rock-truck,D348
+397,93322,773,rock-truck,D346
+398,93321,769C,rock-truck,3408
+399,93327,789,rock-truck,3516
+400,93326,785,rock-truck,3512
+401,93325,777B,rock-truck,3508
+402,93324,773B,rock-truck,3412
+403,114087,973K Steel Mill,crawler-loader,Cat C9.3 ACERT
+404,114089,973K,crawler-loader,Cat C9.3 ACERT
+405,114090,939C Hystat,crawler-loader,NOTFOUND
+406,114092,953D SH,crawler-loader,Cat C6.6 ACERT
+407,114093,963D SH,crawler-loader,Cat C6.6 ACERT
+408,114088,963K,crawler-loader,Cat C7.1 ACERT
+409,103760,955K,crawler-loader,D330
+410,93236,963C,crawler-loader,3126B ATAAC
+411,93235,953C,crawler-loader,Cat 3126B ATAAC
+412,93234,933C,crawler-loader,3046
+413,93233,973 LGP,crawler-loader,3306
+414,93240,931B LGP,crawler-loader,3204
+415,93239,931B,crawler-loader,3204
+416,93237,933C LGP,crawler-loader,3046
+417,93228,953,crawler-loader,3204
+418,93227,943 LGP,crawler-loader,3204
+419,93226,943,crawler-loader,3204
+420,93225,935C Series II,crawler-loader,3204
+421,93224,931C Series II LGP,crawler-loader,3204
+422,93223,931C Series II,crawler-loader,3204
+423,93222,951C,crawler-loader,3304
+424,93221,983,crawler-loader,D343
+425,93220,977L,crawler-loader,3306
+426,93232,973,crawler-loader,3306
+427,93231,963 LGP,crawler-loader,3304
+428,93230,963,crawler-loader,3304
+429,93229,953 LGP,crawler-loader,3204
+430,93177,953C WH,crawler-loader,3126B ATAAC
+431,93176,973C,crawler-loader,C9ACERT
+432,93175,963D,crawler-loader,Cat C6.6 ACERT
+433,93174,953D,crawler-loader,C6.6 ACERT
+434,93173,939C,crawler-loader,3046T
+435,93219,955L,crawler-loader,D330
+436,93218,941B,crawler-loader,3304
+437,93217,931 LGP,crawler-loader,3204
+438,93216,931,crawler-loader,3204
+439,93186,973C WH,crawler-loader,C9
+440,113386,815F Series 2,compactor,Cat C9 ACERT
+441,113387,815K,compactor,Cat C7.1 ACERT: configured for two emissions options
+442,113389,826G,compactor,Cat 3406C TA
+443,113390,816K,compactor,Cat C7.1 ACERT: configured for two emissions options
+444,113391,826G Series II,compactor,Cat 3406E ATAAC Diesel
+445,113392,836G,compactor,Cat 3456 DITA
+446,109240,815F2,compactor,C9 ACERT
+447,108987,CB34B,compactor,C2.2
+448,108986,CB32B,compactor,C1.5
+449,108985,CB24B XT,compactor,C1.5
+450,108984,CB24B,compactor,C1.5
+451,108992,CB22B,compactor,C1.5
+452,108991,CB14B,compactor,Kohler KDW1003
+453,108990,CC34B,compactor,C2.2
+454,108989,CC24B,compactor,C1.5
+455,108988,CB34B XW,compactor,C2.2
+456,108979,836K,compactor,Cat C18 ACERT
+457,108978,816F Series 2,compactor,Cat C9 ACERT
+458,108977,826K,compactor,Cat C15 ACERT
+459,108983,825K,compactor,Cat C15 ACERT
+460,108981,CW34,compactor,C4.4
+461,108980,CW14,compactor,C3.4B
+462,104922,815F Series II,compactor,C9 Acert
+463,104871,816F Series II,compactor,C9 Acert
+464,93368,816B,compactor,3306
+465,93367,518 Landfill,compactor,3304
+466,93366,936 Landfill,compactor,3304
+467,93365,825C,compactor,3406
+468,93364,815B,compactor,3306
+469,93363,826B,compactor,D343
+470,93362,816,compactor,3306
+471,93361,825B,compactor,D343
+472,93360,815,compactor,3306
+473,93381,825H,compactor,Cat C15 ACERT
+474,93380,815F,compactor,Cat 3306 TA
+475,93374,826H,compactor,Cat C15 ACERT
+476,93373,816F,compactor,3176C ATAAC
+477,93369,826C,compactor,3406
+478,93375,836H,compactor,C18 diesel with ACERT Technology

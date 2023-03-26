@@ -1,0 +1,873 @@
+subparam,value1,value2,unit1,unit2,modelname,modelid,specifications.topparam
+Emissions,U.S. EPA Tier 4 Final/EU Stage IV/Korea Tier 4,U.S. EPA Tier 4 Final/EU Stage IV/Korea Tier 4,,,973K Steel Mill,114087,Engine
+Engine Model,Cat C9.3 ACERT,Cat C9.3 ACERT,,,973K Steel Mill,114087,Engine
+Flywheel Power,275,205.1,hp,kw,973K Steel Mill,114087,Engine
+Note (1),"Engine ratings at 1,800 rpm.","Engine ratings at 1,800 rpm.",,,973K Steel Mill,114087,Engine
+Note (2),"No derating required up to 2164 m (7,200 ft) altitude.","No derating required up to 2164 m (7,200 ft) altitude.",,,973K Steel Mill,114087,Engine
+Note (3),"All nonroad Tier 4 Final, Stage IV and Korea Tier 4 diesel engines are required to use only Ultra Low Sulfur Diesel (ULSD) with 15 ppm (mg/kg) of sulfur or less, or up to B20 biodiesel blended with ULSD. B20 should meet ASTM D7467 specification (biodiesel blend stock should meet Cat biodiesel spec, ASTM D6751 or EN 14214). Cat DEO-ULS or oils that meet the Cat ECF-3, API CJ-4, and ACEA E9 specification are required. Consult your OMM for further machine specific fuel recommendations.","All nonroad Tier 4 Final, Stage IV and Korea Tier 4 diesel engines are required to use only Ultra Low Sulfur Diesel (ULSD) with 15 ppm (mg/kg) of sulfur or less, or up to B20 biodiesel blended with ULSD. B20 should meet ASTM D7467 specification (biodiesel blend stock should meet Cat biodiesel spec, ASTM D6751 or EN 14214). Cat DEO-ULS or oils that meet the Cat ECF-3, API CJ-4, and ACEA E9 specification are required. Consult your OMM for further machine specific fuel recommendations.",,,973K Steel Mill,114087,Engine
+Note (4),Diesel Exhaust Fluid (DEF) used in Cat Selective Catalytic Reduction (SCR) systems must meet the requirements outlined in the International Organization for Standardization (ISO) standard 22241.,Diesel Exhaust Fluid (DEF) used in Cat Selective Catalytic Reduction (SCR) systems must meet the requirements outlined in the International Organization for Standardization (ISO) standard 22241.,,,973K Steel Mill,114087,Engine
+Engine Power - Maximum - Iso 14396,306,228.2,hp,kw,973K Steel Mill,114087,Engine
+Engine Power - Maximum - Sae J1995,310,231.2,hp,kw,973K Steel Mill,114087,Engine
+Engine Power - Maximum - Iso 14396 (Din),310,231.2,hp,kw,973K Steel Mill,114087,Engine
+Net Power (Rated) - Iso 9249/Sae J1349,275,205.1,hp,kw,973K Steel Mill,114087,Engine
+Net Power (Rated) - Iso 9249/Sae J1349 (Din),278,207.4,hp,kw,973K Steel Mill,114087,Engine
+Operating Weight,74293,33698.8,lb,kg,973K Steel Mill,114087,Operational
+Note,Steel Mill weights are with new slag bucket.,Steel Mill weights are with new slag bucket.,,,973K Steel Mill,114087,Weights
+Operating Weight - Steel Mill,74293,33698.8,lb,kg,973K Steel Mill,114087,Weights
+Shipping Weight - Steel Mill,63097,28620.4,lb,kg,973K Steel Mill,114087,Weights
+Capacity - General Purpose,4,3.1,yd3,m3,973K Steel Mill,114087,Buckets
+Width - Slag,112,2844.8,in,mm,973K Steel Mill,114087,Buckets
+Capacity - Slag,4,3.1,yd3,m3,973K Steel Mill,114087,Buckets
+Cooling System,11.6,44,gal,L,973K Steel Mill,114087,Service Refill Capacities
+Fuel Tank,101.5,384.3,gal,L,973K Steel Mill,114087,Service Refill Capacities
+Def Tank,9.2,34.9,gal,L,973K Steel Mill,114087,Service Refill Capacities
+Brakes,Brakes meet the standard ISO 10265:2008.,Brakes meet the standard ISO 10265:2008.,,,973K Steel Mill,114087,Standards
+Rops,ROPS (Rollover Protective Structure) offered by Caterpillar for the machine meets ROPS criteria ISO 3471:2008.,ROPS (Rollover Protective Structure) offered by Caterpillar for the machine meets ROPS criteria ISO 3471:2008.,,,973K Steel Mill,114087,Standards
+Fops,FOPS (Falling Object Protective Structure) meets ISO 3449-2005 Level II.,FOPS (Falling Object Protective Structure) meets ISO 3449-2005 Level II.,,,973K Steel Mill,114087,Standards
+Cab - Declared Dynamic Operator Sound Pressure Level,"<ul><li>The declared dynamic operator sound pressure level when ""ISO 6396:2008"" is used to measure the value for an enclosed cab is 75 dB(A). The measurements were conducted at 80% of the maximum engine cooling fan speed. The sound level may vary at different engine cooling fan speeds. The cab was properly installed and maintained. The measurements were conducted with the cab doors and the cab windows closed.</li><li>NOTE: The dynamic operator sound pressure level uncertainty is  2 dB(A).</li></ul>","<ul><li>The declared dynamic operator sound pressure level when ""ISO 6396:2008"" is used to measure the value for an enclosed cab is 75 dB(A). The measurements were conducted at 80% of the maximum engine cooling fan speed. The sound level may vary at different engine cooling fan speeds. The cab was properly installed and maintained. The measurements were conducted with the cab doors and the cab windows closed.</li><li>NOTE: The dynamic operator sound pressure level uncertainty is  2 dB(A).</li></ul>",,,973K Steel Mill,114087,Standards
+Cab - Hearing Protection,"Hearing protection may be needed when the machine is operated with an open operator station for extended periods, in a noisy environment or with a cab that is not properly maintained.","Hearing protection may be needed when the machine is operated with an open operator station for extended periods, in a noisy environment or with a cab that is not properly maintained.",,,973K Steel Mill,114087,Standards
+Cab - Labeled Sound Power Level,"The guaranteed exterior sound power level (LWA) is measured according to the dynamic test procedures and the conditions that are specified in ""ISO 6395:2008"" [111 dB(A)]. The measurements were conducted at 80% of the maximum engine cooling fan speed. The sound level may vary at different engine cooling fan speeds.","The guaranteed exterior sound power level (LWA) is measured according to the dynamic test procedures and the conditions that are specified in ""ISO 6395:2008"" [111 dB(A)]. The measurements were conducted at 80% of the maximum engine cooling fan speed. The sound level may vary at different engine cooling fan speeds.",,,973K Steel Mill,114087,Standards
+Sound Level Information (Eu),"<ul><li>Sound Level Information for Machines in European Union Countries and in Countries that Adopt the ""EU Directives"": The declared dynamic operator sound pressure level when ""ISO 6396:2008"" is used to measure the value for an enclosed cab is 75 dB(A). The measurements were conducted at 80 percent of the maximum engine cooling fan speed. The sound level may vary at different engine cooling fan speeds. The cab was properly installed and maintained. The measurements were conducted with the cab doors and the cab windows closed.</li><li>NOTE: The dynamic operator sound pressure level uncertainty is  2 dB(A).</li><li>If equipped, the certification label is used to verify the environmental sound certification of the machine to the requirements of the European Union. The value that is listed on the label indicates the guaranteed exterior sound power level (LWA) at the time of manufacture for the conditions that are specified in ""2000/14/EC.""</li></ul>","<ul><li>Sound Level Information for Machines in European Union Countries and in Countries that Adopt the ""EU Directives"": The declared dynamic operator sound pressure level when ""ISO 6396:2008"" is used to measure the value for an enclosed cab is 75 dB(A). The measurements were conducted at 80 percent of the maximum engine cooling fan speed. The sound level may vary at different engine cooling fan speeds. The cab was properly installed and maintained. The measurements were conducted with the cab doors and the cab windows closed.</li><li>NOTE: The dynamic operator sound pressure level uncertainty is  2 dB(A).</li><li>If equipped, the certification label is used to verify the environmental sound certification of the machine to the requirements of the European Union. The value that is listed on the label indicates the guaranteed exterior sound power level (LWA) at the time of manufacture for the conditions that are specified in ""2000/14/EC.""</li></ul>",,,973K Steel Mill,114087,Standards
+Air Conditioning,The air conditioning system on this machine contains the fluorinated greenhouse gas refrigerant R134a (Global Warming Potential = 1430). The system contains 1.9 kg of refrigerant which has a CO2 equivalent of 2.717 metric tonnes.,The air conditioning system on this machine contains the fluorinated greenhouse gas refrigerant R134a (Global Warming Potential = 1430). The system contains 1.9 kg of refrigerant which has a CO2 equivalent of 2.717 metric tonnes.,,,973K Steel Mill,114087,Air Conditioning System
+Emissions,Tier 4 Final/Stage IV/Korea Tier 4,Tier 4 Final/Stage IV/Korea Tier 4,,,973K,114089,Engine
+Engine Model,Cat C9.3 ACERT,Cat C9.3 ACERT,,,973K,114089,Engine
+Flywheel Power,275,205.1,hp,kw,973K,114089,Engine
+Note (1),"All nonroad Tier 4 Interim and Final, Stage IIIB and IV and Korea Tier 4 Final diesel engines are required to use only Ultra Low Sulfur Diesel (ULSD) with 15 ppm (mg/kg) of sulfur or less, or up to B20 biodiesel blended with ULSD. B20 should meet ASTM D7467 specification (biodiesel blend stock should meet Cat biodiesel spec, ASTM D6751 or EN 14214). Cat DEO-ULS or oils that meet the Cat ECF-3, API CJ-4, and ACEA E9 specification are required. Consult your OMM for further machine specific fuel recommendations.","All nonroad Tier 4 Interim and Final, Stage IIIB and IV and Korea Tier 4 Final diesel engines are required to use only Ultra Low Sulfur Diesel (ULSD) with 15 ppm (mg/kg) of sulfur or less, or up to B20 biodiesel blended with ULSD. B20 should meet ASTM D7467 specification (biodiesel blend stock should meet Cat biodiesel spec, ASTM D6751 or EN 14214). Cat DEO-ULS or oils that meet the Cat ECF-3, API CJ-4, and ACEA E9 specification are required. Consult your OMM for further machine specific fuel recommendations.",,,973K,114089,Engine
+Note (2),Diesel Exhaust Fluid (DEF) used in Cat Selective Catalytic Reduction (SCR) systems must meet the requirements outlined in the International Organization for Standardization (ISO) standard 22241.,Diesel Exhaust Fluid (DEF) used in Cat Selective Catalytic Reduction (SCR) systems must meet the requirements outlined in the International Organization for Standardization (ISO) standard 22241.,,,973K,114089,Engine
+Net Power - Iso 9249/Sae J1349 (Din),278,207.4,hp,kw,973K,114089,Engine
+Net Power - Iso 9249/Sae J1349,275,205.1,hp,kw,973K,114089,Engine
+Operating Weight,63900,28984.6,lb,kg,973K,114089,Operational
+Operating Weight - Steel Mill,72102,32705,lb,kg,973K,114089,Weights
+Operating Weight - Waste Handler,64319,29174.7,lb,kg,973K,114089,Weights
+Operating Weight - Wide Gauge,71218,32304,lb,kg,973K,114089,Weights
+Capacity - General Purpose,4.2,3.3,yd3,m3,973K,114089,Buckets
+Capacity - Multi-Purpose,4,3.1,yd3,m3,973K,114089,Buckets
+Capacity - Performance Series,5,3.9,yd3,m3,973K,114089,Buckets
+Width - General Purpose,117,2971.8,in,mm,973K,114089,Buckets
+Width - Performance Series,117,2971.8,in,mm,973K,114089,Buckets
+Width - Multi-Purpose,116,2946.4,in,mm,973K,114089,Buckets
+Width - Slag,112,2844.8,in,mm,973K,114089,Buckets
+Capacity - Slag,4,3.1,yd3,m3,973K,114089,Buckets
+Width - Landfill,117,2971.8,in,mm,973K,114089,Buckets
+Capacity - Landfill,6.4,4.9,yd3,m3,973K,114089,Buckets
+Fuel Tank,101.5,384.3,gal,L,973K,114089,Service Refill Capacities
+Def Tank,9.2,34.9,gal,L,973K,114089,Service Refill Capacities
+Air Conditioning,The air conditioning system on this machine contains the fluorinated greenhouse gas refrigerant R134a (Global Warming Potential = 1430). The system contains 1.89 kg of refrigerant which has a CO2 equivalent of 2.717 metric tonnes.,The air conditioning system on this machine contains the fluorinated greenhouse gas refrigerant R134a (Global Warming Potential = 1430). The system contains 1.89 kg of refrigerant which has a CO2 equivalent of 2.717 metric tonnes.,,,973K,114089,Air Conditioning System
+Displacement,305,5,cu in,L,939C Hystat,114090,Engine
+Flywheel Power,90,67.2,hp,kw,939C Hystat,114090,Engine
+Power - Gross,99,73.9,hp,kw,939C Hystat,114090,Engine
+Operating Weight,20908,9483.8,lb,kg,939C Hystat,114090,Operational
+Maximum Operating Height,172.6,4384.1,in,mm,939C Hystat,114090,Operating Specifications
+Digging Depth,5,127,in,mm,939C Hystat,114090,Operating Specifications
+Static Tipping Load - Sae,14565,6606.6,lb,kg,939C Hystat,114090,Operating Specifications
+Sae Specified Dump Angle,2.9,2.83,degrees,degrees,939C Hystat,114090,Operating Specifications
+Capacity - General Purpose,1.5,1.2,yd3,m3,939C Hystat,114090,Operating Specifications
+Dump Clearance At Full Height And 45 Degrees Discharge,105,2667,in,mm,939C Hystat,114090,Operating Specifications
+Breakout Force - Sae,20200,9162.6,lb,kg,939C Hystat,114090,Operating Specifications
+Maximum Rollback - Carry Position,50.2,50.2,degrees,degrees,939C Hystat,114090,Operating Specifications
+Reach - Full Length Height,34,863.6,in,mm,939C Hystat,114090,Operating Specifications
+Maximum Rollback - Fully Raised,64.9,64.9,degrees,degrees,939C Hystat,114090,Operating Specifications
+Net Power,148,110.4,hp,kw,953D SH,114092,Engine
+Displacement,402.8,6.7,cu in,L,953D SH,114092,Engine
+Bore,4.2,105,in,mm,953D SH,114092,Engine
+Stroke,5,127,in,mm,953D SH,114092,Engine
+Engine Model,Cat C6.6 ACERT,Cat C6.6 ACERT,,,953D SH,114092,Engine
+Net Flywheel Power,148,110.4,hp,kw,953D SH,114092,Engine
+Regulations,"Rating at 2,000 rpm","Rating at 2,000 rpm",,,953D SH,114092,Engine
+Operating Weight - Gp Bucket With Teeth,34229,15526.1,lb,kg,953D SH,114092,Weights
+Operating Weight - Trim Blade All Material,33726,15297.9,lb,kg,953D SH,114092,Weights
+Operating Weight - With Gp Bucket And Teeth,34229,15526.1,lb,kg,953D SH,114092,Weights
+Operating Weight - With Trim Blade,33726,15297.9,lb,kg,953D SH,114092,Weights
+Capacity - General Purpose,2.5,1.9,yd3,m3,953D SH,114092,Buckets
+Bucket Width - General Purpose,97.8,2484.2,in,mm,953D SH,114092,Buckets
+Capacity - Multi-Purpose,2.1,1.6,yd3,m3,953D SH,114092,Buckets
+Bucket Width - Multi-Purpose,97.3,2471.5,in,mm,953D SH,114092,Buckets
+Capacity - Gp,2.5,1.9,yd3,m3,953D SH,114092,Buckets
+Capacity - Mp,2.1,1.6,yd3,m3,953D SH,114092,Buckets
+Trim Blade Capacity - All Material,2.1,1.6,yd3,m3,953D SH,114092,Blade
+Trim Blade Capacity - Coal,Can be designed at order,Can be designed at order,,,953D SH,114092,Blade
+Track Motor,"Two, variable displacement, bent axis motors","Two, variable displacement, bent axis motors",,,953D SH,114092,Drive System
+Drive System Type,Drive System Hydrostatic drive with infinite machine speeds to 10.0 km/h (6.2 mph),Drive System Hydrostatic drive with infinite machine speeds to 10.0 km/h (6.2 mph),,,953D SH,114092,Drive System
+Drive Pump,"Two, variable-displacement, slipper-type axial piston pumps","Two, variable-displacement, slipper-type axial piston pumps",,,953D SH,114092,Drive System
+Relief Valve Setting,6961.8 psi,6961.8 psi,,,953D SH,114092,Drive System
+Fuel Tank,83.5,316.1,gal,L,953D SH,114092,Main Service Refills
+Cooling System,8,30.3,gal,L,953D SH,114092,Main Service Refills
+Hydraulic Tank,18.5,70.1,gal,L,953D SH,114092,Main Service Refills
+Capacity - All Material,3,2.3,yd3,m3,953D SH,114092,Trim Blade
+Net Power,189,141,hp,kw,963D SH,114093,Engine
+Displacement,402.8,6.7,cu in,L,963D SH,114093,Engine
+Bore,4.2,105,in,mm,963D SH,114093,Engine
+Stroke,5,127,in,mm,963D SH,114093,Engine
+Engine Model,Cat C6.6 ACERT,Cat C6.6 ACERT,,,963D SH,114093,Engine
+Net Flywheel Power,189,141,hp,kw,963D SH,114093,Engine
+Regulations,"Rating at 2,000 rpm","Rating at 2,000 rpm",,,963D SH,114093,Engine
+Operating Weight - Gp Bucket With Teeth,47236,21425.9,lb,kg,963D SH,114093,Weights
+Operating Weight - Trim Blade All Material,46470,21078.5,lb,kg,963D SH,114093,Weights
+Operating Weight - With Gp Bucket And Teeth,47236,21425.9,lb,kg,963D SH,114093,Weights
+Operating Weight - With Trim Blade,46740,21201,lb,kg,963D SH,114093,Weights
+Capacity - General Purpose,3.2,2.5,yd3,m3,963D SH,114093,Buckets
+Bucket Width - General Purpose,102.8,2611.2,in,mm,963D SH,114093,Buckets
+Capacity - Multi-Purpose,2.5,1.9,yd3,m3,963D SH,114093,Buckets
+Bucket Width - Multi-Purpose,101.3,2573.1,in,mm,963D SH,114093,Buckets
+Capacity - Gp,3.2,2.5,yd3,m3,963D SH,114093,Buckets
+Capacity - Mp,2.5,1.9,yd3,m3,963D SH,114093,Buckets
+Trim Blade Capacity - All Material,4.2,3.3,yd3,m3,963D SH,114093,Blade
+Trim Blade Capacity - Coal,5.25 yd,5.25 yd,,,963D SH,114093,Blade
+Track Motor,"Two, variable displacement, bent axis motors","Two, variable displacement, bent axis motors",,,963D SH,114093,Drive System
+Drive System Type,Drive System Hydrostatic drive with infinite machine speeds to 10.0 km/h (6.2 mph),Drive System Hydrostatic drive with infinite machine speeds to 10.0 km/h (6.2 mph),,,963D SH,114093,Drive System
+Drive Pump,"Two, variable-displacement, slipper-type axial piston pumps","Two, variable-displacement, slipper-type axial piston pumps",,,963D SH,114093,Drive System
+Relief Valve Setting,6961.8 psi,6961.8 psi,,,963D SH,114093,Drive System
+Fuel Tank,105.7,400.2,gal,L,963D SH,114093,Main Service Refills
+Cooling System,9,34.1,gal,L,963D SH,114093,Main Service Refills
+Hydraulic Tank,23.7,89.8,gal,L,963D SH,114093,Main Service Refills
+Capacity - All Material,4.3,3.3,yd3,m3,963D SH,114093,Trim Blade
+Capacity - Coal,5.3,4.1,yd3,m3,963D SH,114093,Trim Blade
+Emissions,"U.S. EPA Tier 4 Final/EU Stage IV, China Nonroad Stage III, equivalent to Tier 3/Stage IIIA","U.S. EPA Tier 4 Final/EU Stage IV, China Nonroad Stage III, equivalent to Tier 3/Stage IIIA",,,963K,114088,Engine
+Engine Model,Cat C7.1 ACERT,Cat C7.1 ACERT,,,963K,114088,Engine
+Flywheel Power,193,144,hp,kw,963K,114088,Engine
+Note (1),"All nonroad Tier 4 Interim and Final, Stage IIIB and IV and Korea Tier 4 Final diesel engines are required to use only Ultra Low Sulfur Diesel (ULSD) with 15 ppm (mg/kg) of sulfur or less, or up to B20 biodiesel blended with ULSD. B20 should meet ASTM D7467 specification (biodiesel blend stock should meet Cat biodiesel spec, ASTM D6751 or EN 14214). Cat DEO-ULS or oils that meet the Cat ECF-3, API CJ-4, and ACEA E9 specification are required. Consult your OMM for further machine specific fuel recommendations.","All nonroad Tier 4 Interim and Final, Stage IIIB and IV and Korea Tier 4 Final diesel engines are required to use only Ultra Low Sulfur Diesel (ULSD) with 15 ppm (mg/kg) of sulfur or less, or up to B20 biodiesel blended with ULSD. B20 should meet ASTM D7467 specification (biodiesel blend stock should meet Cat biodiesel spec, ASTM D6751 or EN 14214). Cat DEO-ULS or oils that meet the Cat ECF-3, API CJ-4, and ACEA E9 specification are required. Consult your OMM for further machine specific fuel recommendations.",,,963K,114088,Engine
+Note (2),Diesel Exhaust Fluid (DEF) used in Cat Selective Catalytic Reduction (SCR) systems must meet the requirements outlined in the International Organization for Standardization (ISO) standard 22241.,Diesel Exhaust Fluid (DEF) used in Cat Selective Catalytic Reduction (SCR) systems must meet the requirements outlined in the International Organization for Standardization (ISO) standard 22241.,,,963K,114088,Engine
+Net Power - Iso 9249/Sae J1349 (Din),196,146.2,hp,kw,963K,114088,Engine
+Net Power - Iso 9249/Sae J1349,193,144,hp,kw,963K,114088,Engine
+Operating Weight,44138,20020.7,lb,kg,963K,114088,Operational
+Note,(1) Machine equipped with Tier 4 Final/Stage IV emissions reduction technology.,(1) Machine equipped with Tier 4 Final/Stage IV emissions reduction technology.,,,963K,114088,Weights
+Operating Weight(1),44771,20307.8,lb,kg,963K,114088,Weights
+Capacity - General Purpose,3.2,2.5,yd3,m3,963K,114088,Buckets
+Capacity - Multi-Purpose,2.6,2,yd3,m3,963K,114088,Buckets
+Capacity - Performance Series,3.7,2.9,yd3,m3,963K,114088,Buckets
+Width - General Purpose,102.8,2611.2,in,mm,963K,114088,Buckets
+Width - Performance Series,106.8,2712.8,in,mm,963K,114088,Buckets
+Width - Multi-Purpose,101.3,2573.1,in,mm,963K,114088,Buckets
+Fuel Tank,84.5,319.9,gal,L,963K,114088,Service Refill Capacities
+Note,(1) Machine equipped with Tier 4 Final/Stage IV emissions reduction technology.,(1) Machine equipped with Tier 4 Final/Stage IV emissions reduction technology.,,,963K,114088,Service Refill Capacities
+Def Tank(1),4.3,16,gal,L,963K,114088,Service Refill Capacities
+Air Conditioning,The air conditioning system on this machine contains the fluorinated greenhouse gas refrigerant R134a (Global Warming Potential = 1430). The system contains 1.1 kg of refrigerant which has a CO2 equivalent of 1.573 metric tonnes.,The air conditioning system on this machine contains the fluorinated greenhouse gas refrigerant R134a (Global Warming Potential = 1430). The system contains 1.1 kg of refrigerant which has a CO2 equivalent of 1.573 metric tonnes.,,,963K,114088,Air Conditioning System
+Number Of Cylinders,4,4,,,955K,103760,Engine
+Engine Make,2236,2236,,,955K,103760,Engine
+Engine Model,D330,D330,,,955K,103760,Engine
+Net Power,115,85.8,hp,kw,955K,103760,Engine
+Power Measured @,2185,2185,rpm,rpm,955K,103760,Engine
+Aspiration,turbocharged,turbocharged,,,955K,103760,Engine
+Displacement,427.2,7,cu in,L,955K,103760,Engine
+Operating Weight,28000,12700.6,lb,kg,955K,103760,Operational
+Fuel Capacity,57.1,216,gal,L,955K,103760,Operational
+Cooling System Fluid Capacity,11.1,42,gal,L,955K,103760,Operational
+Engine Oil Capacity,5,18.9,gal,L,955K,103760,Operational
+Final Drive Fluid Capacity - Each,2.6,9.5,gal,L,955K,103760,Operational
+Hydraulic System Fluid Capacity,25.9,98,gal,L,955K,103760,Operational
+Bucket Capacity - Struck,1.5,1.2,yd3,m3,955K,103760,Operational
+Bucket Capacity - Heaped,1.8,1.4,yd3,m3,955K,103760,Operational
+Max Speed,7,11.3,mph,km/h,955K,103760,Operational
+Number Of Cylinders,6,6,,,963C,93236,Engine
+Engine Make,2236,2236,,,963C,93236,Engine
+Engine Model,3126B ATAAC,3126B ATAAC,,,963C,93236,Engine
+Net Power,158,117.9,hp,kw,963C,93236,Engine
+Power Measured @,2000,2000,rpm,rpm,963C,93236,Engine
+Aspiration,Turbocharged,Turbocharged,,,963C,93236,Engine
+Displacement,439.4,7.2,cu in,L,963C,93236,Engine
+Operating Weight,43186.4,19589,lb,kg,963C,93236,Operational
+Fuel Capacity,83.3,315,gal,L,963C,93236,Operational
+Cooling System Fluid Capacity,8.1,30.5,gal,L,963C,93236,Operational
+Engine Oil Capacity,7.4,28,gal,L,963C,93236,Operational
+Final Drive Fluid Capacity - Each,4,15,gal,L,963C,93236,Operational
+Hydraulic System Fluid Capacity,42.3,160,gal,L,963C,93236,Operational
+Static Tipping Load,29903.6,13564,lb,kg,963C,93236,Operational
+Breakout Force - Std Bucket,43133,191.9,lb,kN,963C,93236,Operational
+Bucket Capacity - Struck,2.7,2,yd3,m3,963C,93236,Operational
+Bucket Capacity - Heaped,3.1,2.3,yd3,m3,963C,93236,Operational
+Operating Voltage,12,12,V,V,963C,93236,Operational
+Alternator Supplied Amperage,70,70,amps,amps,963C,93236,Operational
+Max Speed,6.1,9.7,mph,km/h,963C,93236,Operational
+Pump Type,VANE,VANE,,,963C,93236,Hydraulic
+Pump Flow Capacity,56.8,215,gal/min,L/min,963C,93236,Hydraulic
+Relief Valve Pressure,3045,20994.6,psi,kPa,963C,93236,Hydraulic
+Raise Time,6.6,6.6,sec,sec,963C,93236,Hydraulic
+Dump Time,1.3,1.3,sec,sec,963C,93236,Hydraulic
+Lower Time,2.1,2.1,sec,sec,963C,93236,Hydraulic
+Battery Voltage,12,12,,,953C,93235,Electrical System
+Alternator,"70 Amps, Heavy-Duty Brushless","70 Amps, Heavy-Duty Brushless",,,953C,93235,Electrical System
+Electrical System Type,24V DC,24V DC,,,953C,93235,Electrical System
+Battery Capacity,750 CCA,750 CCA,,,953C,93235,Electrical System
+Battery Quantity,2,2,,,953C,93235,Electrical System
+Number Of Cylinders,6,6,,,953C,93235,Engine
+Engine Make,2236,2236,,,953C,93235,Engine
+Engine Model,3126B ATAAC,3126B ATAAC,,,953C,93235,Engine
+Net Power,128,95.5,hp,kw,953C,93235,Engine
+Power Measured @,2000,2000,rpm,rpm,953C,93235,Engine
+Aspiration,Turbocharged,Turbocharged,,,953C,93235,Engine
+Displacement,442,7.3,cu in,L,953C,93235,Engine
+Bore,4.4,110,in,mm,953C,93235,Engine
+Stroke,5,127,in,mm,953C,93235,Engine
+Net Power - Iso 9249,128,95.5,hp,kw,953C,93235,Engine
+Net Power - Sae J1349,128,95.5,hp,kw,953C,93235,Engine
+Engine Model,Cat 3126B ATAAC,Cat 3126B ATAAC,,,953C,93235,Engine
+Flywheel Power,128,95.5,hp,kw,953C,93235,Engine
+Net Power - Eec 80/1269,128,95.5,hp,kw,953C,93235,Engine
+Net Power - Caterpillar,128,95.5,hp,kw,953C,93235,Engine
+Operating Weight,32895.2,14921,lb,kg,953C,93235,Operational
+Fuel Capacity,63.7,241,gal,L,953C,93235,Operational
+Cooling System Fluid Capacity,6.9,26,gal,L,953C,93235,Operational
+Engine Oil Capacity,4.8,18,gal,L,953C,93235,Operational
+Final Drive Fluid Capacity - Each,4.1,15.5,gal,L,953C,93235,Operational
+Hydraulic System Fluid Capacity,29.1,110,gal,L,953C,93235,Operational
+Static Tipping Load,23565.3,10689,lb,kg,953C,93235,Operational
+Breakout Force - Std Bucket,21400,95.2,lb,kN,953C,93235,Operational
+Bucket Capacity - Struck,1.7,1.3,yd3,m3,953C,93235,Operational
+Bucket Capacity - Heaped,2,1.5,yd3,m3,953C,93235,Operational
+Operating Voltage,12,12,V,V,953C,93235,Operational
+Alternator Supplied Amperage,70,70,amps,amps,953C,93235,Operational
+Max Speed,5.7,9.2,mph,km/h,953C,93235,Operational
+Operating Weight,33389,15145,lb,kg,953C,93235,Weights
+Shipping Weight - Without Bucket,30274,13732.1,lb,kg,953C,93235,Weights
+Capacity - General Purpose,2.5,1.9,yd3,m3,953C,93235,Buckets
+Bucket Width - General Purpose,93.7,2380,in,mm,953C,93235,Buckets
+Capacity - Multi-Purpose,2.1,1.6,yd3,m3,953C,93235,Buckets
+Bucket Width - Multi-Purpose,93.6,2377.5,in,mm,953C,93235,Buckets
+Pump Type,VANE,VANE,,,953C,93235,Hydraulic
+Pump Flow Capacity,31.8,120,gal/min,L/min,953C,93235,Hydraulic
+Relief Valve Pressure,3481,24000.7,psi,kPa,953C,93235,Hydraulic
+Raise Time,6.9,6.9,sec,sec,953C,93235,Hydraulic
+Dump Time,1.3,1.3,sec,sec,953C,93235,Hydraulic
+Lower Time,2.6,2.6,sec,sec,953C,93235,Hydraulic
+Maximum Travel Speed,5.7,9.2,mph,km/h,953C,93235,Operating Specifications
+Cooling System,6.9,26.2,gal,L,953C,93235,Service Refill Capacities
+Fuel Tank,62,234.7,gal,L,953C,93235,Service Refill Capacities
+Final Drive - Each,4.1,15.6,gal,L,953C,93235,Service Refill Capacities
+Hydraulic Tank,17.7,67.1,gal,L,953C,93235,Service Refill Capacities
+Crankcase - With Filter,4.8,18.2,gal,L,953C,93235,Service Refill Capacities
+Pivot Shaft,0.2,0.8,gal,L,953C,93235,Service Refill Capacities
+Pump Drive Box,1,3.8,gal,L,953C,93235,Service Refill Capacities
+"Hydraulic System - Equipment, Power Train And Tank",29.1,110.2,gal,L,953C,93235,Service Refill Capacities
+Relief Valve Setting,413 psi,413 psi,,,953C,93235,Hydraulic System - Pilot
+Cycle Time - Raise,6.9 s,6.9 s,,,953C,93235,Hydraulic System - Pilot
+Cycle Time - Dump,1.3 s,1.3 s,,,953C,93235,Hydraulic System - Pilot
+"Cycle Time - Lower, Empty, Float Down",2.6 s,2.6 s,,,953C,93235,Hydraulic System - Pilot
+Cycle Time - Raise And Dump,5.8 s,5.8 s,,,953C,93235,Hydraulic System - Pilot
+Output - Maximum,3.2 gal/min,3.2 gal/min,,,953C,93235,Hydraulic System - Pilot
+Brakes,Brakes,Brakes,,,953C,93235,Standards
+Rops/Fops,ROPS/FOPS,ROPS/FOPS,,,953C,93235,Standards
+Cab,Cab,Cab,,,953C,93235,Standards
+Track Motor,"Two, variable-displacement, link-type piston motors","Two, variable-displacement, link-type piston motors",,,953C,93235,Drive System
+Drive System Type,Hydrostatic drive with infinite machine speeds to 9.2 km/h (5.7 mph),Hydrostatic drive with infinite machine speeds to 9.2 km/h (5.7 mph),,,953C,93235,Drive System
+Drive Pump,"Two, variable-displacement, slipper-type axial piston pumps","Two, variable-displacement, slipper-type axial piston pumps",,,953C,93235,Drive System
+Relief Valve Setting,6380 psi,6380 psi,,,953C,93235,Drive System
+Hydraulic System - Equipment Type,Vane,Vane,,,953C,93235,Hydraulic System - Equipment
+Main Relief Valve Setting,3481 psi,3481 psi,,,953C,93235,Hydraulic System - Equipment
+Output,31.7 gal/min,31.7 gal/min,,,953C,93235,Hydraulic System - Equipment
+Lift Cylinder - Bore,4.8,120.7,in,mm,953C,93235,Hydraulic System - Equipment
+Lift Cylinder - Stroke,28,711.2,in,mm,953C,93235,Hydraulic System - Equipment
+Tilt Cylinder - Bore,5.5,139.7,in,mm,953C,93235,Hydraulic System - Equipment
+Tilt Cylinder - Stroke,18.8,477.6,in,mm,953C,93235,Hydraulic System - Equipment
+Number Of Cylinders,6,6,,,933C,93234,Engine
+Engine Make,2236,2236,,,933C,93234,Engine
+Engine Model,3046,3046,,,933C,93234,Engine
+Net Power,70,52.2,hp,kw,933C,93234,Engine
+Power Measured @,2400,2400,rpm,rpm,933C,93234,Engine
+Displacement,305.2,5,cu in,L,933C,93234,Engine
+Operating Weight,18706.3,8485,lb,kg,933C,93234,Operational
+Fuel Capacity,41.5,157,gal,L,933C,93234,Operational
+Cooling System Fluid Capacity,5.6,21,gal,L,933C,93234,Operational
+Engine Oil Capacity,3.5,13,gal,L,933C,93234,Operational
+Final Drive Fluid Capacity - Each,3.7,13.8,gal,L,933C,93234,Operational
+Hydraulic System Fluid Capacity,15.1,56.8,gal,L,933C,93234,Operational
+Static Tipping Load,12833.2,5821,lb,kg,933C,93234,Operational
+Breakout Force - Std Bucket,17390,77.4,lb,kN,933C,93234,Operational
+Bucket Capacity - Struck,1.4,1,yd3,m3,933C,93234,Operational
+Bucket Capacity - Heaped,1.1,0.9,yd3,m3,933C,93234,Operational
+Operating Voltage,12,12,V,V,933C,93234,Operational
+Alternator Supplied Amperage,90,90,amps,amps,933C,93234,Operational
+Max Speed,5.6,9,mph,km/h,933C,93234,Operational
+Pump Type,open centered parallel.,open centered parallel.,,,933C,93234,Hydraulic
+Pump Flow Capacity,27.3,103,gal/min,L/min,933C,93234,Hydraulic
+Relief Valve Pressure,2874.7,19820,psi,kPa,933C,93234,Hydraulic
+Raise Time,8.8,8.8,sec,sec,933C,93234,Hydraulic
+Dump Time,1.7,1.7,sec,sec,933C,93234,Hydraulic
+Lower Time,2,2,sec,sec,933C,93234,Hydraulic
+Engine Make,2236,2236,,,973 LGP,93233,Engine
+Engine Model,3306,3306,,,973 LGP,93233,Engine
+Net Power,210,156.6,hp,kw,973 LGP,93233,Engine
+Displacement,640.8,10.5,cu in,L,973 LGP,93233,Engine
+Operating Weight,56292.9,25534,lb,kg,973 LGP,93233,Operational
+Fuel Capacity,94.1,356,gal,L,973 LGP,93233,Operational
+Hydraulic System Fluid Capacity,15.9,60,gal,L,973 LGP,93233,Operational
+Static Tipping Load,37011.3,16788,lb,kg,973 LGP,93233,Operational
+Breakout Force - Std Bucket,47981,213.5,lb,kN,973 LGP,93233,Operational
+Bucket Capacity - Struck,3.2,2.5,yd3,m3,973 LGP,93233,Operational
+Bucket Capacity - Heaped,3.7,2.8,yd3,m3,973 LGP,93233,Operational
+Max Speed,6.5,10.3,mph,km/h,973 LGP,93233,Operational
+Raise Time,7.4,7.4,sec,sec,973 LGP,93233,Hydraulic
+Dump Time,1.4,1.4,sec,sec,973 LGP,93233,Hydraulic
+Lower Time,2.6,2.6,sec,sec,973 LGP,93233,Hydraulic
+Number Of Cylinders,4,4,,,931B LGP,93240,Engine
+Engine Make,2236,2236,,,931B LGP,93240,Engine
+Engine Model,3204,3204,,,931B LGP,93240,Engine
+Net Power,64.4,48,hp,kw,931B LGP,93240,Engine
+Power Measured @,2400,2400,rpm,rpm,931B LGP,93240,Engine
+Displacement,317.4,5.2,cu in,L,931B LGP,93240,Engine
+Operating Weight,18397.6,8345,lb,kg,931B LGP,93240,Operational
+Fuel Capacity,30.7,116,gal,L,931B LGP,93240,Operational
+Cooling System Fluid Capacity,5.3,20,gal,L,931B LGP,93240,Operational
+Engine Oil Capacity,3.2,12,gal,L,931B LGP,93240,Operational
+Final Drive Fluid Capacity - Each,3.2,12,gal,L,931B LGP,93240,Operational
+Hydraulic System Fluid Capacity,22.2,84,gal,L,931B LGP,93240,Operational
+Static Tipping Load,11455.3,5196,lb,kg,931B LGP,93240,Operational
+Breakout Force - Std Bucket,12670,56.4,lb,kN,931B LGP,93240,Operational
+Bucket Capacity - Struck,0.9,0.7,yd3,m3,931B LGP,93240,Operational
+Bucket Capacity - Heaped,1.1,0.8,yd3,m3,931B LGP,93240,Operational
+Operating Voltage,12,12,V,V,931B LGP,93240,Operational
+Alternator Supplied Amperage,40,40,amps,amps,931B LGP,93240,Operational
+Max Speed,7.1,11.4,mph,km/h,931B LGP,93240,Operational
+Pump Type,Single-section gear pump,Single-section gear pump,,,931B LGP,93240,Hydraulic
+Pump Flow Capacity,22.2,84,gal/min,L/min,931B LGP,93240,Hydraulic
+Relief Valve Pressure,2500,17236.9,psi,kPa,931B LGP,93240,Hydraulic
+Raise Time,6.1,6.1,sec,sec,931B LGP,93240,Hydraulic
+Dump Time,1.4,1.4,sec,sec,931B LGP,93240,Hydraulic
+Lower Time,3.5,3.5,sec,sec,931B LGP,93240,Hydraulic
+Number Of Cylinders,4,4,,,931B,93239,Engine
+Engine Make,2236,2236,,,931B,93239,Engine
+Engine Model,3204,3204,,,931B,93239,Engine
+Net Power,64.4,48,hp,kw,931B,93239,Engine
+Power Measured @,2400,2400,rpm,rpm,931B,93239,Engine
+Displacement,317.4,5.2,cu in,L,931B,93239,Engine
+Operating Weight,15331,6954,lb,kg,931B,93239,Operational
+Fuel Capacity,30.7,116,gal,L,931B,93239,Operational
+Cooling System Fluid Capacity,5.3,20,gal,L,931B,93239,Operational
+Engine Oil Capacity,3.2,12,gal,L,931B,93239,Operational
+Final Drive Fluid Capacity - Each,2.2,8,gal,L,931B,93239,Operational
+Hydraulic System Fluid Capacity,20.1,76,gal,L,931B,93239,Operational
+Static Tipping Load,9083.1,4120,lb,kg,931B,93239,Operational
+Breakout Force - Std Bucket,11560,51.5,lb,kN,931B,93239,Operational
+Bucket Capacity - Struck,0.9,0.7,yd3,m3,931B,93239,Operational
+Bucket Capacity - Heaped,1.1,0.8,yd3,m3,931B,93239,Operational
+Operating Voltage,12,12,V,V,931B,93239,Operational
+Alternator Supplied Amperage,40,40,amps,amps,931B,93239,Operational
+Max Speed,7.1,11.4,mph,km/h,931B,93239,Operational
+Pump Type,Single-section gear pump,Single-section gear pump,,,931B,93239,Hydraulic
+Pump Flow Capacity,23,87,gal/min,L/min,931B,93239,Hydraulic
+Relief Valve Pressure,2500,17236.9,psi,kPa,931B,93239,Hydraulic
+Raise Time,6.1,6.1,sec,sec,931B,93239,Hydraulic
+Dump Time,1.4,1.4,sec,sec,931B,93239,Hydraulic
+Lower Time,3.5,3.5,sec,sec,931B,93239,Hydraulic
+Number Of Cylinders,6,6,,,933C LGP,93237,Engine
+Engine Model,3046,3046,,,933C LGP,93237,Engine
+Net Power,70,52.2,hp,kw,933C LGP,93237,Engine
+Power Measured @,2400,2400,rpm,rpm,933C LGP,93237,Engine
+Displacement,305.2,5,cu in,L,933C LGP,93237,Engine
+Operating Weight,18706.3,8485,lb,kg,933C LGP,93237,Operational
+Fuel Capacity,41.5,157,gal,L,933C LGP,93237,Operational
+Cooling System Fluid Capacity,5.6,21,gal,L,933C LGP,93237,Operational
+Engine Oil Capacity,3.5,13,gal,L,933C LGP,93237,Operational
+Final Drive Fluid Capacity - Each,5.5,20.5,gal,L,933C LGP,93237,Operational
+Hydraulic System Fluid Capacity,15.1,56.8,gal,L,933C LGP,93237,Operational
+Static Tipping Load,12412.1,5630,lb,kg,933C LGP,93237,Operational
+Breakout Force - Std Bucket,18790,83.6,lb,kN,933C LGP,93237,Operational
+Bucket Capacity - Struck,1.1,0.8,yd3,m3,933C LGP,93237,Operational
+Bucket Capacity - Heaped,1.3,1,yd3,m3,933C LGP,93237,Operational
+Operating Voltage,12,12,V,V,933C LGP,93237,Operational
+Alternator Supplied Amperage,55,55,amps,amps,933C LGP,93237,Operational
+Max Speed,5.6,9,mph,km/h,933C LGP,93237,Operational
+Pump Type,"open centered, parallel system","open centered, parallel system",,,933C LGP,93237,Hydraulic
+Pump Flow Capacity,27.3,103,gal/min,L/min,933C LGP,93237,Hydraulic
+Relief Valve Pressure,2874.7,19820,psi,kPa,933C LGP,93237,Hydraulic
+Raise Time,5.8,5.8,sec,sec,933C LGP,93237,Hydraulic
+Dump Time,1.7,1.7,sec,sec,933C LGP,93237,Hydraulic
+Lower Time,2,2,sec,sec,933C LGP,93237,Hydraulic
+Engine Make,2236,2236,,,953,93228,Engine
+Engine Model,3204,3204,,,953,93228,Engine
+Net Power,110,82.1,hp,kw,953,93228,Engine
+Displacement,317.4,5.2,cu in,L,953,93228,Engine
+Operating Weight,31080.8,14098,lb,kg,953,93228,Operational
+Fuel Capacity,50.8,192,gal,L,953,93228,Operational
+Hydraulic System Fluid Capacity,15.4,58,gal,L,953,93228,Operational
+Static Tipping Load,19288.3,8749,lb,kg,953,93228,Operational
+Breakout Force - Std Bucket,26395,117.5,lb,kN,953,93228,Operational
+Bucket Capacity - Struck,1.7,1.3,yd3,m3,953,93228,Operational
+Bucket Capacity - Heaped,2,1.5,yd3,m3,953,93228,Operational
+Max Speed,6.5,10.4,mph,km/h,953,93228,Operational
+Raise Time,7.4,7.4,sec,sec,953,93228,Hydraulic
+Dump Time,1.5,1.5,sec,sec,953,93228,Hydraulic
+Lower Time,3,3,sec,sec,953,93228,Hydraulic
+Engine Make,2236,2236,,,943 LGP,93227,Engine
+Engine Model,3204,3204,,,943 LGP,93227,Engine
+Net Power,80,59.7,hp,kw,943 LGP,93227,Engine
+Displacement,317.4,5.2,cu in,L,943 LGP,93227,Engine
+Operating Weight,26208.6,11888,lb,kg,943 LGP,93227,Operational
+Fuel Capacity,42.1,159,gal,L,943 LGP,93227,Operational
+Hydraulic System Fluid Capacity,15.4,58,gal,L,943 LGP,93227,Operational
+Static Tipping Load,17707.6,8032,lb,kg,943 LGP,93227,Operational
+Breakout Force - Std Bucket,21139,94.1,lb,kN,943 LGP,93227,Operational
+Bucket Capacity - Struck,1.3,1,yd3,m3,943 LGP,93227,Operational
+Bucket Capacity - Heaped,1.6,1.2,yd3,m3,943 LGP,93227,Operational
+Max Speed,6,9.5,mph,km/h,943 LGP,93227,Operational
+Raise Time,7.2,7.2,sec,sec,943 LGP,93227,Hydraulic
+Dump Time,1.6,1.6,sec,sec,943 LGP,93227,Hydraulic
+Lower Time,2.2,2.2,sec,sec,943 LGP,93227,Hydraulic
+Number Of Cylinders,4,4,,,943,93226,Engine
+Engine Make,2236,2236,,,943,93226,Engine
+Engine Model,3204,3204,,,943,93226,Engine
+Net Power,80,59.7,hp,kw,943,93226,Engine
+Power Measured @,2400,2400,rpm,rpm,943,93226,Engine
+Displacement,317.4,5.2,cu in,L,943,93226,Engine
+Operating Weight,25772.1,11690,lb,kg,943,93226,Operational
+Fuel Capacity,42.1,159,gal,L,943,93226,Operational
+Cooling System Fluid Capacity,5.9,22,gal,L,943,93226,Operational
+Engine Oil Capacity,4,15,gal,L,943,93226,Operational
+Final Drive Fluid Capacity - Each,2.7,10,gal,L,943,93226,Operational
+Hydraulic System Fluid Capacity,21.7,82,gal,L,943,93226,Operational
+Static Tipping Load,17707.6,8032,lb,kg,943,93226,Operational
+Breakout Force - Std Bucket,21139,94.1,lb,kN,943,93226,Operational
+Bucket Capacity - Struck,1.3,1,yd3,m3,943,93226,Operational
+Bucket Capacity - Heaped,1.6,1.2,yd3,m3,943,93226,Operational
+Operating Voltage,24,24,V,V,943,93226,Operational
+Alternator Supplied Amperage,50,50,amps,amps,943,93226,Operational
+Max Speed,6,9.5,mph,km/h,943,93226,Operational
+Pump Type,Vane-type pump,Vane-type pump,,,943,93226,Hydraulic
+Pump Flow Capacity,24.6,93,gal/min,L/min,943,93226,Hydraulic
+Relief Valve Pressure,3038,20946.3,psi,kPa,943,93226,Hydraulic
+Raise Time,7.2,7.2,sec,sec,943,93226,Hydraulic
+Dump Time,1.6,1.6,sec,sec,943,93226,Hydraulic
+Lower Time,2.2,2.2,sec,sec,943,93226,Hydraulic
+Engine Make,2236,2236,,,935C Series II,93225,Engine
+Engine Model,3204,3204,,,935C Series II,93225,Engine
+Net Power,80,59.7,hp,kw,935C Series II,93225,Engine
+Displacement,317.4,5.2,cu in,L,935C Series II,93225,Engine
+Operating Weight,19310.3,8759,lb,kg,935C Series II,93225,Operational
+Fuel Capacity,30.7,116,gal,L,935C Series II,93225,Operational
+Hydraulic System Fluid Capacity,15.1,57,gal,L,935C Series II,93225,Operational
+Static Tipping Load,12795.7,5804,lb,kg,935C Series II,93225,Operational
+Breakout Force - Std Bucket,15098,67.2,lb,kN,935C Series II,93225,Operational
+Bucket Capacity - Struck,1.1,0.9,yd3,m3,935C Series II,93225,Operational
+Bucket Capacity - Heaped,1.4,1,yd3,m3,935C Series II,93225,Operational
+Max Speed,6.6,10.5,mph,km/h,935C Series II,93225,Operational
+Raise Time,6.3,6.3,sec,sec,935C Series II,93225,Hydraulic
+Dump Time,2.2,2.2,sec,sec,935C Series II,93225,Hydraulic
+Lower Time,3.5,3.5,sec,sec,935C Series II,93225,Hydraulic
+Number Of Cylinders,4,4,,,931C Series II LGP,93224,Engine
+Engine Make,2236,2236,,,931C Series II LGP,93224,Engine
+Engine Model,3204,3204,,,931C Series II LGP,93224,Engine
+Net Power,69,51.5,hp,kw,931C Series II LGP,93224,Engine
+Power Measured @,2400,2400,rpm,rpm,931C Series II LGP,93224,Engine
+Displacement,317.4,5.2,cu in,L,931C Series II LGP,93224,Engine
+Operating Weight,18011.8,8170,lb,kg,931C Series II LGP,93224,Operational
+Fuel Capacity,30.7,116,gal,L,931C Series II LGP,93224,Operational
+Cooling System Fluid Capacity,5.3,20,gal,L,931C Series II LGP,93224,Operational
+Engine Oil Capacity,3.2,12,gal,L,931C Series II LGP,93224,Operational
+Final Drive Fluid Capacity - Each,3.2,12,gal,L,931C Series II LGP,93224,Operational
+Hydraulic System Fluid Capacity,15.1,57,gal,L,931C Series II LGP,93224,Operational
+Static Tipping Load,10599.9,4808,lb,kg,931C Series II LGP,93224,Operational
+Breakout Force - Std Bucket,15554,69.2,lb,kN,931C Series II LGP,93224,Operational
+Bucket Capacity - Struck,0.9,0.7,yd3,m3,931C Series II LGP,93224,Operational
+Bucket Capacity - Heaped,1.1,0.9,yd3,m3,931C Series II LGP,93224,Operational
+Operating Voltage,12,12,V,V,931C Series II LGP,93224,Operational
+Alternator Supplied Amperage,40,40,amps,amps,931C Series II LGP,93224,Operational
+Max Speed,7,11.2,mph,km/h,931C Series II LGP,93224,Operational
+Pump Type,single-section gear,single-section gear,,,931C Series II LGP,93224,Hydraulic
+Pump Flow Capacity,22.7,85.9,gal/min,L/min,931C Series II LGP,93224,Hydraulic
+Relief Valve Pressure,2500,17236.9,psi,kPa,931C Series II LGP,93224,Hydraulic
+Raise Time,6,6,sec,sec,931C Series II LGP,93224,Hydraulic
+Dump Time,2.7,2.7,sec,sec,931C Series II LGP,93224,Hydraulic
+Lower Time,3.1,3.1,sec,sec,931C Series II LGP,93224,Hydraulic
+Number Of Cylinders,4,4,,,931C Series II,93223,Engine
+Engine Make,2236,2236,,,931C Series II,93223,Engine
+Engine Model,3204,3204,,,931C Series II,93223,Engine
+Net Power,69.8,52,hp,kw,931C Series II,93223,Engine
+Power Measured @,2400,2400,rpm,rpm,931C Series II,93223,Engine
+Displacement,317.4,5.2,cu in,L,931C Series II,93223,Engine
+Operating Weight,17740.6,8047,lb,kg,931C Series II,93223,Operational
+Fuel Capacity,30.7,116,gal,L,931C Series II,93223,Operational
+Cooling System Fluid Capacity,5.3,20,gal,L,931C Series II,93223,Operational
+Engine Oil Capacity,3.2,12,gal,L,931C Series II,93223,Operational
+Final Drive Fluid Capacity - Each,2.2,8,gal,L,931C Series II,93223,Operational
+Hydraulic System Fluid Capacity,15.1,57,gal,L,931C Series II,93223,Operational
+Static Tipping Load,10791.7,4895,lb,kg,931C Series II,93223,Operational
+Breakout Force - Std Bucket,14270,63.5,lb,kN,931C Series II,93223,Operational
+Bucket Capacity - Struck,0.9,0.7,yd3,m3,931C Series II,93223,Operational
+Bucket Capacity - Heaped,1.1,0.9,yd3,m3,931C Series II,93223,Operational
+Operating Voltage,12,12,V,V,931C Series II,93223,Operational
+Alternator Supplied Amperage,40,40,amps,amps,931C Series II,93223,Operational
+Max Speed,7,11.2,mph,km/h,931C Series II,93223,Operational
+Pump Type,single-section gear,single-section gear,,,931C Series II,93223,Hydraulic
+Pump Flow Capacity,22.7,85.9,gal/min,L/min,931C Series II,93223,Hydraulic
+Relief Valve Pressure,2500,17236.9,psi,kPa,931C Series II,93223,Hydraulic
+Raise Time,6,6,sec,sec,931C Series II,93223,Hydraulic
+Dump Time,2.7,2.7,sec,sec,931C Series II,93223,Hydraulic
+Lower Time,3.1,3.1,sec,sec,931C Series II,93223,Hydraulic
+Number Of Cylinders,4,4,,,951C,93222,Engine
+Engine Make,2236,2236,,,951C,93222,Engine
+Engine Model,3304,3304,,,951C,93222,Engine
+Net Power,95,70.9,hp,kw,951C,93222,Engine
+Power Measured @,2200,2200,rpm,rpm,951C,93222,Engine
+Displacement,427.2,7,cu in,L,951C,93222,Engine
+Operating Weight,28071.5,12733,lb,kg,951C,93222,Operational
+Fuel Capacity,52.1,197,gal,L,951C,93222,Operational
+Cooling System Fluid Capacity,6.5,24.6,gal,L,951C,93222,Operational
+Engine Oil Capacity,5,18.9,gal,L,951C,93222,Operational
+Final Drive Fluid Capacity - Each,2.6,9.5,gal,L,951C,93222,Operational
+Hydraulic System Fluid Capacity,19.5,73.8,gal,L,951C,93222,Operational
+Static Tipping Load,18867.2,8558,lb,kg,951C,93222,Operational
+Breakout Force - Std Bucket,15710,69.9,lb,kN,951C,93222,Operational
+Bucket Capacity - Struck,1.6,1.2,yd3,m3,951C,93222,Operational
+Bucket Capacity - Heaped,1.8,1.4,yd3,m3,951C,93222,Operational
+Operating Voltage,24,24,V,V,951C,93222,Operational
+Alternator Supplied Amperage,19,19,amps,amps,951C,93222,Operational
+Max Speed,7.2,11.5,mph,km/h,951C,93222,Operational
+Pump Type,Vane-type pump,Vane-type pump,,,951C,93222,Hydraulic
+Pump Flow Capacity,33.3,126,gal/min,L/min,951C,93222,Hydraulic
+Relief Valve Pressure,2500,17236.9,psi,kPa,951C,93222,Hydraulic
+Raise Time,6.6,6.6,sec,sec,951C,93222,Hydraulic
+Dump Time,2.4,2.4,sec,sec,951C,93222,Hydraulic
+Lower Time,2.3,2.3,sec,sec,951C,93222,Hydraulic
+Number Of Cylinders,6,6,,,983,93221,Engine
+Engine Make,2236,2236,,,983,93221,Engine
+Engine Model,D343,D343,,,983,93221,Engine
+Net Power,275,205.1,hp,kw,983,93221,Engine
+Power Measured @,2060,2060,rpm,rpm,983,93221,Engine
+Aspiration,turbocharged,turbocharged,,,983,93221,Engine
+Displacement,891,14.6,cu in,L,983,93221,Engine
+Operating Weight,71650.3,32500,lb,kg,983,93221,Operational
+Fuel Capacity,134.8,510,gal,L,983,93221,Operational
+Cooling System Fluid Capacity,23,87,gal,L,983,93221,Operational
+Engine Oil Capacity,10.9,41,gal,L,983,93221,Operational
+Final Drive Fluid Capacity - Each,8.5,32,gal,L,983,93221,Operational
+Hydraulic System Fluid Capacity,38.1,144,gal,L,983,93221,Operational
+Static Tipping Load,48680,22080.9,lb,kg,983,93221,Operational
+Breakout Force - Std Bucket,43850,195.1,lb,kN,983,93221,Operational
+Bucket Capacity - Struck,3.8,2.9,yd3,m3,983,93221,Operational
+Bucket Capacity - Heaped,4.9,3.7,yd3,m3,983,93221,Operational
+Operating Voltage,24,24,V,V,983,93221,Operational
+Alternator Supplied Amperage,19,19,amps,amps,983,93221,Operational
+Max Speed,7.4,12,mph,km/h,983,93221,Operational
+Pump Flow Capacity,137.4,520,gal/min,L/min,983,93221,Hydraulic
+Relief Valve Pressure,2150,14823.8,psi,kPa,983,93221,Hydraulic
+Raise Time,7.7,7.7,sec,sec,983,93221,Hydraulic
+Dump Time,1.4,1.4,sec,sec,983,93221,Hydraulic
+Lower Time,3.2,3.2,sec,sec,983,93221,Hydraulic
+Number Of Cylinders,6,6,,,977L,93220,Engine
+Engine Make,2236,2236,,,977L,93220,Engine
+Engine Model,3306,3306,,,977L,93220,Engine
+Net Power,190,141.7,hp,kw,977L,93220,Engine
+Power Measured @,1950,1950,rpm,rpm,977L,93220,Engine
+Aspiration,turbocharged,turbocharged,,,977L,93220,Engine
+Displacement,640.8,10.5,cu in,L,977L,93220,Engine
+Operating Weight,47641.9,21610,lb,kg,977L,93220,Operational
+Fuel Capacity,102,386,gal,L,977L,93220,Operational
+Cooling System Fluid Capacity,13,49.2,gal,L,977L,93220,Operational
+Engine Oil Capacity,7.3,27.4,gal,L,977L,93220,Operational
+Final Drive Fluid Capacity - Each,6.8,25.6,gal,L,977L,93220,Operational
+Hydraulic System Fluid Capacity,36.5,138,gal,L,977L,93220,Operational
+Static Tipping Load,31989.1,14510,lb,kg,977L,93220,Operational
+Breakout Force - Std Bucket,34160,152,lb,kN,977L,93220,Operational
+Bucket Capacity - Struck,2.4,1.8,yd3,m3,977L,93220,Operational
+Bucket Capacity - Heaped,2.8,2.1,yd3,m3,977L,93220,Operational
+Operating Voltage,24,24,V,V,977L,93220,Operational
+Alternator Supplied Amperage,19,19,amps,amps,977L,93220,Operational
+Max Speed,7.1,11.3,mph,km/h,977L,93220,Operational
+Raise Time,7.8,7.8,sec,sec,977L,93220,Hydraulic
+Dump Time,1.6,1.6,sec,sec,977L,93220,Hydraulic
+Lower Time,3.4,3.4,sec,sec,977L,93220,Hydraulic
+Engine Make,2236,2236,,,973,93232,Engine
+Engine Model,3306,3306,,,973,93232,Engine
+Net Power,210,156.6,hp,kw,973,93232,Engine
+Displacement,640.8,10.5,cu in,L,973,93232,Engine
+Operating Weight,54899.6,24902,lb,kg,973,93232,Operational
+Fuel Capacity,94.1,356,gal,L,973,93232,Operational
+Hydraulic System Fluid Capacity,15.9,60,gal,L,973,93232,Operational
+Static Tipping Load,37011.3,16788,lb,kg,973,93232,Operational
+Breakout Force - Std Bucket,47981,213.5,lb,kN,973,93232,Operational
+Bucket Capacity - Struck,3.2,2.5,yd3,m3,973,93232,Operational
+Bucket Capacity - Heaped,3.7,2.8,yd3,m3,973,93232,Operational
+Max Speed,6.5,10.3,mph,km/h,973,93232,Operational
+Raise Time,7.4,7.4,sec,sec,973,93232,Hydraulic
+Dump Time,1.4,1.4,sec,sec,973,93232,Hydraulic
+Lower Time,2.6,2.6,sec,sec,973,93232,Hydraulic
+Engine Make,2236,2236,,,963 LGP,93231,Engine
+Engine Model,3304,3304,,,963 LGP,93231,Engine
+Net Power,150.2,112,hp,kw,963 LGP,93231,Engine
+Displacement,427.2,7,cu in,L,963 LGP,93231,Engine
+Operating Weight,41092,18639,lb,kg,963 LGP,93231,Operational
+Fuel Capacity,69,261,gal,L,963 LGP,93231,Operational
+Hydraulic System Fluid Capacity,15.9,60,gal,L,963 LGP,93231,Operational
+Static Tipping Load,27165.4,12322,lb,kg,963 LGP,93231,Operational
+Breakout Force - Std Bucket,38227,170.1,lb,kN,963 LGP,93231,Operational
+Bucket Capacity - Struck,2.2,1.7,yd3,m3,963 LGP,93231,Operational
+Bucket Capacity - Heaped,2.7,2,yd3,m3,963 LGP,93231,Operational
+Max Speed,6.3,10.1,mph,km/h,963 LGP,93231,Operational
+Raise Time,6.2,6.2,sec,sec,963 LGP,93231,Hydraulic
+Dump Time,1.3,1.3,sec,sec,963 LGP,93231,Hydraulic
+Lower Time,2.3,2.3,sec,sec,963 LGP,93231,Hydraulic
+Number Of Cylinders,4,4,,,963,93230,Engine
+Engine Make,2236,2236,,,963,93230,Engine
+Engine Model,3304,3304,,,963,93230,Engine
+Net Power,150,111.9,hp,kw,963,93230,Engine
+Power Measured @,2200,2200,rpm,rpm,963,93230,Engine
+Displacement,427.2,7,cu in,L,963,93230,Engine
+Operating Weight,40490.2,18366,lb,kg,963,93230,Operational
+Fuel Capacity,69,261,gal,L,963,93230,Operational
+Cooling System Fluid Capacity,11.9,45,gal,L,963,93230,Operational
+Engine Oil Capacity,5.1,19,gal,L,963,93230,Operational
+Final Drive Fluid Capacity - Each,3.7,14,gal,L,963,93230,Operational
+Hydraulic System Fluid Capacity,15.9,60,gal,L,963,93230,Operational
+Static Tipping Load,27165.4,12322,lb,kg,963,93230,Operational
+Breakout Force - Std Bucket,38227,170.1,lb,kN,963,93230,Operational
+Bucket Capacity - Struck,2.2,1.7,yd3,m3,963,93230,Operational
+Bucket Capacity - Heaped,2.7,2,yd3,m3,963,93230,Operational
+Operating Voltage,24,24,V,V,963,93230,Operational
+Alternator Supplied Amperage,50,50,amps,amps,963,93230,Operational
+Max Speed,6.3,10.1,mph,km/h,963,93230,Operational
+Pump Type,Vane-type pump,Vane-type pump,,,963,93230,Hydraulic
+Pump Flow Capacity,53.9,204,gal/min,L/min,963,93230,Hydraulic
+Relief Valve Pressure,2750,18960.6,psi,kPa,963,93230,Hydraulic
+Raise Time,6.2,6.2,sec,sec,963,93230,Hydraulic
+Dump Time,1.3,1.3,sec,sec,963,93230,Hydraulic
+Lower Time,2.3,2.3,sec,sec,963,93230,Hydraulic
+Engine Make,2236,2236,,,953 LGP,93229,Engine
+Engine Model,3204,3204,,,953 LGP,93229,Engine
+Net Power,110,82.1,hp,kw,953 LGP,93229,Engine
+Displacement,317.4,5.2,cu in,L,953 LGP,93229,Engine
+Operating Weight,31662.8,14362,lb,kg,953 LGP,93229,Operational
+Fuel Capacity,50.8,192,gal,L,953 LGP,93229,Operational
+Hydraulic System Fluid Capacity,15.4,58,gal,L,953 LGP,93229,Operational
+Static Tipping Load,19288.3,8749,lb,kg,953 LGP,93229,Operational
+Breakout Force - Std Bucket,26395,117.5,lb,kN,953 LGP,93229,Operational
+Bucket Capacity - Struck,1.7,1.3,yd3,m3,953 LGP,93229,Operational
+Bucket Capacity - Heaped,2,1.5,yd3,m3,953 LGP,93229,Operational
+Max Speed,6.5,10.4,mph,km/h,953 LGP,93229,Operational
+Raise Time,7.4,7.4,sec,sec,953 LGP,93229,Hydraulic
+Dump Time,1.5,1.5,sec,sec,953 LGP,93229,Hydraulic
+Lower Time,3,3,sec,sec,953 LGP,93229,Hydraulic
+Engine Make,2236,2236,,,953C WH,93177,Engine
+Engine Model,3126B ATAAC,3126B ATAAC,,,953C WH,93177,Engine
+Net Power,128,95,hp,kw,953C WH,93177,Engine
+Operating Weight,36720,16656,lb,kg,953C WH,93177,Operational
+Fuel Capacity,62,233.5,gal,L,953C WH,93177,Operational
+Cooling System Fluid Capacity,6.9,26,gal,L,953C WH,93177,Operational
+Engine Oil Capacity,4.8,18,gal,L,953C WH,93177,Operational
+Final Drive Fluid Capacity - Each,4.1,15.5,gal,L,953C WH,93177,Operational
+Hydraulic System Fluid Capacity,29.1,110,gal,L,953C WH,93177,Operational
+Bucket Capacity - Heaped,3,2.3,yd3,m3,953C WH,93177,Operational
+Operating Voltage,24,24,V,V,953C WH,93177,Operational
+Alternator Supplied Amperage,65,65,amps,amps,953C WH,93177,Operational
+Max Speed,5.7,9.2,mph,km/h,953C WH,93177,Operational
+Pump Type,Piston,Piston,,,953C WH,93177,Hydraulic
+Number Of Cylinders,6,6,,,973C,93176,Engine
+Engine Make,2236,2236,,,973C,93176,Engine
+Engine Model,C9ACERT,C9ACERT,,,973C,93176,Engine
+Net Power,242,178,hp,kw,973C,93176,Engine
+Power Measured @,1800,1800,rpm,rpm,973C,93176,Engine
+Aspiration,Turbocharged,Turbocharged,,,973C,93176,Engine
+Displacement,537,8.8,cu in,L,973C,93176,Engine
+Operating Weight,58153,26373,lb,kg,973C,93176,Operational
+Fuel Capacity,113,430,gal,L,973C,93176,Operational
+Cooling System Fluid Capacity,11,43,gal,L,973C,93176,Operational
+Engine Oil Capacity,7.7,29,gal,L,973C,93176,Operational
+Final Drive Fluid Capacity - Each,7.5,28.5,gal,L,973C,93176,Operational
+Hydraulic System Fluid Capacity,44.6,169,gal,L,973C,93176,Operational
+Static Tipping Load,44649,20249,lb,kg,973C,93176,Operational
+Breakout Force - Std Bucket,47992,213.3,lb,kN,973C,93176,Operational
+Bucket Capacity - Struck,3.2,2.5,yd3,m3,973C,93176,Operational
+Bucket Capacity - Heaped,3.7,2.8,yd3,m3,973C,93176,Operational
+Operating Voltage,24,24,V,V,973C,93176,Operational
+Alternator Supplied Amperage,65,65,amps,amps,973C,93176,Operational
+Max Speed,5.6,9.1,mph,km/h,973C,93176,Operational
+Pump Type,Hydrostatic drive/piston,Hydrostatic drive/piston,,,973C,93176,Hydraulic
+Pump Flow Capacity,88.5,335,gal/min,L/min,973C,93176,Hydraulic
+Relief Valve Pressure,2755,19000,psi,kPa,973C,93176,Hydraulic
+Raise Time,6.7,6.7,sec,sec,973C,93176,Hydraulic
+Dump Time,5.1,5.1,sec,sec,973C,93176,Hydraulic
+Lower Time,2.9,2.9,sec,sec,973C,93176,Hydraulic
+Number Of Cylinders,6,6,,,963D,93175,Engine
+Engine Make,2236,2236,,,963D,93175,Engine
+Engine Model,C6.6 ACERT,C6.6 ACERT,,,963D,93175,Engine
+Net Power,189,141,hp,kw,963D,93175,Engine
+Power Measured @,2000,2000,rpm,rpm,963D,93175,Engine
+Displacement,402.8,6.7,cu in,L,963D,93175,Engine
+Bore,4.2,105,in,mm,963D,93175,Engine
+Stroke,5,127,in,mm,963D,93175,Engine
+Net Power - Cat,189,141,hp,kw,963D,93175,Engine
+Net Power - Iso 9249,189,141,hp,kw,963D,93175,Engine
+Net Power - Sae J1349,189,141,hp,kw,963D,93175,Engine
+Engine Model,Cat C6.6 ACERT,Cat C6.6 ACERT,,,963D,93175,Engine
+Flywheel Power,189,141,hp,kw,963D,93175,Engine
+Net Power - Eec 80/1269,189,141,hp,kw,963D,93175,Engine
+Operating Weight,44577,20220,lb,kg,963D,93175,Operational
+Fuel Capacity,105.6,400,gal,L,963D,93175,Operational
+Cooling System Fluid Capacity,8.3,31.5,gal,L,963D,93175,Operational
+Engine Oil Capacity,4.4,16.5,gal,L,963D,93175,Operational
+Final Drive Fluid Capacity - Each,4,15,gal,L,963D,93175,Operational
+Hydraulic System Fluid Capacity,23.7,90,gal,L,963D,93175,Operational
+Static Tipping Load,33001,14969,lb,kg,963D,93175,Operational
+Breakout Force - Std Bucket,46908,208.7,lb,kN,963D,93175,Operational
+Bucket Capacity - Struck,2.7,2,yd3,m3,963D,93175,Operational
+Bucket Capacity - Heaped,3,2.3,yd3,m3,963D,93175,Operational
+Operating Voltage,24,24,V,V,963D,93175,Operational
+Max Speed,6,9.5,mph,km/h,963D,93175,Operational
+Operating Weight,44577,20219.8,lb,kg,963D,93175,Weights
+Capacity - General Purpose,3.2,2.5,yd3,m3,963D,93175,Buckets
+Bucket Width - General Purpose,102.8,2611.2,in,mm,963D,93175,Buckets
+Capacity - Multi-Purpose,2.6,2,yd3,m3,963D,93175,Buckets
+Bucket Width - Multi-Purpose,101.3,2573.1,in,mm,963D,93175,Buckets
+Pump Type,"Closed center, load sensing/piston","Closed center, load sensing/piston",,,963D,93175,Hydraulic
+Pump Flow Capacity,55.2,209,gal/min,L/min,963D,93175,Hydraulic
+Relief Valve Pressure,3989,27500,psi,kPa,963D,93175,Hydraulic
+Raise Time,5.7,5.7,sec,sec,963D,93175,Hydraulic
+Dump Time,1.3,1.3,sec,sec,963D,93175,Hydraulic
+Lower Time,3.7,3.7,sec,sec,963D,93175,Hydraulic
+Cooling System,8.3,31.5,gal,L,963D,93175,Service Refill Capacities
+Fuel Tank,105.6,399.8,gal,L,963D,93175,Service Refill Capacities
+Final Drive - Each,4,15.2,gal,L,963D,93175,Service Refill Capacities
+Hydraulic Tank,23.7,89.8,gal,L,963D,93175,Service Refill Capacities
+Crankcase - With Filter,4.4,16.7,gal,L,963D,93175,Service Refill Capacities
+Pivot Shaft,0.5,1.9,gal,L,963D,93175,Service Refill Capacities
+Brakes,Brakes,Brakes,,,963D,93175,Standards
+Rops/Fops,ROPS/FOPS,ROPS/FOPS,,,963D,93175,Standards
+Cab,Cab,Cab,,,963D,93175,Standards
+Cycle Time - Dump,1.3 s,1.3 s,,,963D,93175,Bucket Cycle Times
+Cycle Time - Float Down,2.9 s,2.9 s,,,963D,93175,Bucket Cycle Times
+Cycle Time - Raise,5.8 s,5.8 s,,,963D,93175,Bucket Cycle Times
+Cycle Time - Total,6.4 s,6.4 s,,,963D,93175,Bucket Cycle Times
+Track Motor,"Two, variable displacement, bent axis motors","Two, variable displacement, bent axis motors",,,963D,93175,Drive System
+Hydraulic System - Equipment Type,"Closed center, load sensing / piston","Closed center, load sensing / piston",,,963D,93175,Hydraulic System - Equipment
+Main Relief Valve Setting,4061 psi,4061 psi,,,963D,93175,Hydraulic System - Equipment
+Output,55.2 gal/min,55.2 gal/min,,,963D,93175,Hydraulic System - Equipment
+Number Of Cylinders,6,6,,,953D,93174,Engine
+Engine Make,2236,2236,,,953D,93174,Engine
+Engine Model,C6.6 ACERT,C6.6 ACERT,,,953D,93174,Engine
+Net Power,148,110,hp,kw,953D,93174,Engine
+Power Measured @,2000,2000,rpm,rpm,953D,93174,Engine
+Displacement,402.8,6.6,cu in,L,953D,93174,Engine
+Operating Weight,34341,15577,lb,kg,953D,93174,Operational
+Fuel Capacity,83.5,316,gal,L,953D,93174,Operational
+Cooling System Fluid Capacity,8,31,gal,L,953D,93174,Operational
+Engine Oil Capacity,4.4,16.5,gal,L,953D,93174,Operational
+Final Drive Fluid Capacity - Each,2.8,10.8,gal,L,953D,93174,Operational
+Hydraulic System Fluid Capacity,18.5,70,gal,L,953D,93174,Operational
+Static Tipping Load,25162,11413,lb,kg,953D,93174,Operational
+Breakout Force - Std Bucket,36093,160.6,lb,kN,953D,93174,Operational
+Bucket Capacity - Struck,2,1.5,yd3,m3,953D,93174,Operational
+Bucket Capacity - Heaped,2.3,1.8,yd3,m3,953D,93174,Operational
+Operating Voltage,24,24,V,V,953D,93174,Operational
+Alternator Supplied Amperage,95,95,amps,amps,953D,93174,Operational
+Max Speed,5.8,9.2,mph,km/h,953D,93174,Operational
+Pump Type,Hydrostatic drive,Hydrostatic drive,,,953D,93174,Hydraulic
+Pump Flow Capacity,30.8,140,gal/min,L/min,953D,93174,Hydraulic
+Relief Valve Pressure,3990,27500,psi,kPa,953D,93174,Hydraulic
+Raise Time,5.9,5.9,sec,sec,953D,93174,Hydraulic
+Dump Time,1.3,1.3,sec,sec,953D,93174,Hydraulic
+Lower Time,2,2,sec,sec,953D,93174,Hydraulic
+Number Of Cylinders,6,6,,,939C,93173,Engine
+Engine Make,2236,2236,,,939C,93173,Engine
+Engine Model,3046T,3046T,,,939C,93173,Engine
+Net Power,90,67.9,hp,kw,939C,93173,Engine
+Power Measured @,2400,2400,rpm,rpm,939C,93173,Engine
+Aspiration,Turbocharger,Turbocharger,,,939C,93173,Engine
+Displacement,305,5,cu in,L,939C,93173,Engine
+Operating Weight,20908,9484,lb,kg,939C,93173,Operational
+Fuel Capacity,41.4,157,gal,L,939C,93173,Operational
+Cooling System Fluid Capacity,5.5,21,gal,L,939C,93173,Operational
+Engine Oil Capacity,3.4,13,gal,L,939C,93173,Operational
+Final Drive Fluid Capacity - Each,3.9,14.7,gal,L,939C,93173,Operational
+Hydraulic System Fluid Capacity,15,56.8,gal,L,939C,93173,Operational
+Static Tipping Load,14565,6607,lb,kg,939C,93173,Operational
+Breakout Force - Std Bucket,20200,89.9,lb,kN,939C,93173,Operational
+Bucket Capacity - Struck,1.3,1,yd3,m3,939C,93173,Operational
+Bucket Capacity - Heaped,1.5,1.2,yd3,m3,939C,93173,Operational
+Operating Voltage,12,12,V,V,939C,93173,Operational
+Alternator Supplied Amperage,55,55,amps,amps,939C,93173,Operational
+Pump Type,Gear,Gear,,,939C,93173,Hydraulic
+Pump Flow Capacity,35,133,gal/min,L/min,939C,93173,Hydraulic
+Relief Valve Pressure,2875,19820,psi,kPa,939C,93173,Hydraulic
+Raise Time,5.6,5.6,sec,sec,939C,93173,Hydraulic
+Dump Time,2.4,2.4,sec,sec,939C,93173,Hydraulic
+Lower Time,2.9,2.9,sec,sec,939C,93173,Hydraulic
+Number Of Cylinders,4,4,,,955L,93219,Engine
+Engine Make,2236,2236,,,955L,93219,Engine
+Engine Model,D330,D330,,,955L,93219,Engine
+Net Power,130,97,hp,kw,955L,93219,Engine
+Aspiration,turbocharged,turbocharged,,,955L,93219,Engine
+Displacement,427.2,7,cu in,L,955L,93219,Engine
+Operating Weight,30203.4,13700,lb,kg,955L,93219,Operational
+Fuel Capacity,62.9,238,gal,L,955L,93219,Operational
+Cooling System Fluid Capacity,39.1,148,gal,L,955L,93219,Operational
+Static Tipping Load,18607.1,8440,lb,kg,955L,93219,Operational
+Breakout Force - Std Bucket,22930,102,lb,kN,955L,93219,Operational
+Bucket Capacity - Struck,1.7,1.3,yd3,m3,955L,93219,Operational
+Bucket Capacity - Heaped,2.1,1.6,yd3,m3,955L,93219,Operational
+Operating Voltage,24,24,V,V,955L,93219,Operational
+Max Speed,7.1,11.3,mph,km/h,955L,93219,Operational
+Raise Time,6.6,6.6,sec,sec,955L,93219,Hydraulic
+Dump Time,1.6,1.6,sec,sec,955L,93219,Hydraulic
+Lower Time,3.2,3.2,sec,sec,955L,93219,Hydraulic
+Number Of Cylinders,4,4,,,941B,93218,Engine
+Engine Make,2236,2236,,,941B,93218,Engine
+Engine Model,3304,3304,,,941B,93218,Engine
+Net Power,80,59.7,hp,kw,941B,93218,Engine
+Power Measured @,2000,2000,rpm,rpm,941B,93218,Engine
+Displacement,427.2,7,cu in,L,941B,93218,Engine
+Operating Weight,24899.1,11294,lb,kg,941B,93218,Operational
+Fuel Capacity,39.9,151,gal,L,941B,93218,Operational
+Cooling System Fluid Capacity,6.5,24.6,gal,L,941B,93218,Operational
+Engine Oil Capacity,5,18.9,gal,L,941B,93218,Operational
+Final Drive Fluid Capacity - Each,2.6,9.5,gal,L,941B,93218,Operational
+Hydraulic System Fluid Capacity,19,72,gal,L,941B,93218,Operational
+Static Tipping Load,15829.2,7180,lb,kg,941B,93218,Operational
+Breakout Force - Std Bucket,14220,63.3,lb,kN,941B,93218,Operational
+Bucket Capacity - Struck,1.3,1,yd3,m3,941B,93218,Operational
+Operating Voltage,24,24,V,V,941B,93218,Operational
+Alternator Supplied Amperage,19,19,amps,amps,941B,93218,Operational
+Max Speed,6.9,11.2,mph,km/h,941B,93218,Operational
+Pump Type,Vane-type pump,Vane-type pump,,,941B,93218,Hydraulic
+Pump Flow Capacity,27.8,105,gal/min,L/min,941B,93218,Hydraulic
+Relief Valve Pressure,2500,17236.9,psi,kPa,941B,93218,Hydraulic
+Raise Time,6.7,6.7,sec,sec,941B,93218,Hydraulic
+Dump Time,2.5,2.5,sec,sec,941B,93218,Hydraulic
+Lower Time,2.2,2.2,sec,sec,941B,93218,Hydraulic
+Number Of Cylinders,4,4,,,931 LGP,93217,Engine
+Engine Make,2236,2236,,,931 LGP,93217,Engine
+Engine Model,3204,3204,,,931 LGP,93217,Engine
+Net Power,62,46.3,hp,kw,931 LGP,93217,Engine
+Power Measured @,2400,2400,rpm,rpm,931 LGP,93217,Engine
+Displacement,317.4,5.2,cu in,L,931 LGP,93217,Engine
+Operating Weight,17141,7775,lb,kg,931 LGP,93217,Operational
+Fuel Capacity,30.2,114,gal,L,931 LGP,93217,Operational
+Cooling System Fluid Capacity,6.5,24.6,gal,L,931 LGP,93217,Operational
+Engine Oil Capacity,3.1,11.4,gal,L,931 LGP,93217,Operational
+Final Drive Fluid Capacity - Each,3.1,11.4,gal,L,931 LGP,93217,Operational
+Hydraulic System Fluid Capacity,13,49.2,gal,L,931 LGP,93217,Operational
+Static Tipping Load,10156.7,4607,lb,kg,931 LGP,93217,Operational
+Breakout Force - Std Bucket,12850,57.2,lb,kN,931 LGP,93217,Operational
+Bucket Capacity - Struck,0.9,0.7,yd3,m3,931 LGP,93217,Operational
+Bucket Capacity - Heaped,1.1,0.8,yd3,m3,931 LGP,93217,Operational
+Operating Voltage,12,12,V,V,931 LGP,93217,Operational
+Alternator Supplied Amperage,40,40,amps,amps,931 LGP,93217,Operational
+Max Speed,6.9,11.1,mph,km/h,931 LGP,93217,Operational
+Pump Type,Single-section gear pump,Single-section gear pump,,,931 LGP,93217,Hydraulic
+Pump Flow Capacity,22.2,84,gal/min,L/min,931 LGP,93217,Hydraulic
+Relief Valve Pressure,2500,17236.9,psi,kPa,931 LGP,93217,Hydraulic
+Raise Time,6.2,6.13,sec,sec,931 LGP,93217,Hydraulic
+Dump Time,1.3,1.26,sec,sec,931 LGP,93217,Hydraulic
+Lower Time,3.5,3.48,sec,sec,931 LGP,93217,Hydraulic
+Engine Make,2236,2236,,,931,93216,Engine
+Engine Model,3204,3204,,,931,93216,Engine
+Net Power,62,46.3,hp,kw,931,93216,Engine
+Displacement,317.4,5.2,cu in,L,931,93216,Engine
+Operating Weight,15211.9,6900,lb,kg,931,93216,Operational
+Fuel Capacity,30.3,114.5,gal,L,931,93216,Operational
+Hydraulic System Fluid Capacity,13,-,gal,L,931,93216,Operational
+Static Tipping Load,8895.7,4035,lb,kg,931,93216,Operational
+Breakout Force - Std Bucket,10700,47.6,lb,kN,931,93216,Operational
+Bucket Capacity - Struck,0.9,0.7,yd3,m3,931,93216,Operational
+Bucket Capacity - Heaped,1.1,0.8,yd3,m3,931,93216,Operational
+Max Speed,6.9,11.1,mph,km/h,931,93216,Operational
+Raise Time,6.1,6.1,sec,sec,931,93216,Hydraulic
+Dump Time,1.3,1.3,sec,sec,931,93216,Hydraulic
+Lower Time,3.5,3.5,sec,sec,931,93216,Hydraulic
+Engine Make,2236,2236,,,973C WH,93186,Engine
+Engine Model,C9,C9,,,973C WH,93186,Engine
+Net Power,239,178.3,hp,kw,973C WH,93186,Engine
+Operating Weight,60585,27480.9,lb,kg,973C WH,93186,Operational
+Fuel Capacity,113,427.8,gal,L,973C WH,93186,Operational
+Cooling System Fluid Capacity,11,41.7,gal,L,973C WH,93186,Operational
+Engine Oil Capacity,7.7,29,gal,L,973C WH,93186,Operational
+Final Drive Fluid Capacity - Each,7.5,28.4,gal,L,973C WH,93186,Operational
+Bucket Capacity - Heaped,6.2,4.8,yd3,m3,973C WH,93186,Operational
+Max Speed,5.6,9.1,mph,km/h,973C WH,93186,Operational
